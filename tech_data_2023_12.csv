@@ -1,0 +1,882 @@
+TransactionID,Date,ProductID,ProductName,ProductCategory,QuantitySold,UnitPrice,CustomerID,CustomerName,CustomerSector,Country,Region,ProductionCost,TotalSaleAmount,Profit
+7279,2023-12-01,1098,Product_1295,Robotics,21,130,215,Customer_303,Consumer Electronics,Japan,North America,110,2730,420
+309,2023-12-01,1365,Product_1223,Sensor,15,299,473,Customer_9,Automotive,Germany,North America,642,4485,-5145
+8934,2023-12-01,1141,Product_1157,Microchip,56,509,160,Customer_79,Consumer Electronics,South Korea,Asia-Pacific,473,28504,2016
+2785,2023-12-01,1367,Product_1489,Sensor,3,403,486,Customer_57,Industrial,Germany,North America,623,1209,-660
+3541,2023-12-01,1221,Product_1401,Microchip,24,847,407,Customer_447,Automotive,China,Asia-Pacific,222,20328,15000
+6055,2023-12-01,1149,Product_1190,Robotics,35,248,255,Customer_178,Automotive,South Korea,Asia-Pacific,398,8680,-5250
+9276,2023-12-01,1214,Product_1314,Microchip,45,868,403,Customer_189,Industrial,USA,Asia-Pacific,702,39060,7470
+4774,2023-12-01,1462,Product_1178,Microchip,48,666,63,Customer_17,Industrial,China,Europe,23,31968,30864
+3650,2023-12-01,1144,Product_1412,Robotics,49,164,67,Customer_382,Automotive,China,North America,120,8036,2156
+1815,2023-12-01,1332,Product_1197,Microchip,37,981,333,Customer_428,Industrial,Germany,Asia-Pacific,121,36297,31820
+4962,2023-12-01,1025,Product_1308,Robotics,3,375,302,Customer_215,Automotive,Japan,North America,322,1125,159
+744,2023-12-01,1143,Product_1063,Sensor,6,678,37,Customer_431,Consumer Electronics,South Korea,Asia-Pacific,289,4068,2334
+7583,2023-12-01,1156,Product_1200,Sensor,86,859,496,Customer_158,Consumer Electronics,USA,Europe,141,73874,61748
+4686,2023-12-01,1396,Product_1498,Microchip,30,763,448,Customer_234,Automotive,Germany,North America,165,22890,17940
+2298,2023-12-01,1143,Product_1478,Sensor,70,355,33,Customer_219,Consumer Electronics,China,North America,273,24850,5740
+9335,2023-12-01,1412,Product_1103,Sensor,78,780,190,Customer_311,Industrial,South Korea,Europe,799,60840,-1482
+8023,2023-12-01,1085,Product_1027,Microchip,10,323,393,Customer_325,Industrial,South Korea,North America,593,3230,-2700
+4011,2023-12-01,1270,Product_1408,Microchip,55,427,200,Customer_57,Automotive,Japan,Europe,55,23485,20460
+8560,2023-12-01,1459,Product_1351,Robotics,9,71,179,Customer_491,Automotive,South Korea,Europe,744,639,-6057
+6242,2023-12-01,1355,Product_1046,Sensor,80,733,49,Customer_374,Industrial,USA,Asia-Pacific,297,58640,34880
+9703,2023-12-02,1354,Product_1391,Microchip,98,963,490,Customer_212,Consumer Electronics,China,Asia-Pacific,237,94374,71148
+928,2023-12-02,1379,Product_1448,Robotics,65,981,96,Customer_186,Automotive,South Korea,Europe,72,63765,59085
+9440,2023-12-02,1206,Product_1397,Microchip,72,847,98,Customer_102,Automotive,USA,Asia-Pacific,274,60984,41256
+621,2023-12-02,1284,Product_1021,Robotics,23,357,366,Customer_324,Automotive,China,Asia-Pacific,575,8211,-5014
+595,2023-12-02,1189,Product_1367,Robotics,41,319,290,Customer_288,Industrial,Germany,Europe,430,13079,-4551
+9733,2023-12-02,1178,Product_1287,Robotics,50,70,323,Customer_365,Automotive,USA,North America,739,3500,-33450
+9713,2023-12-02,1173,Product_1085,Microchip,82,427,86,Customer_487,Industrial,Germany,North America,196,35014,18942
+9614,2023-12-02,1452,Product_1150,Robotics,24,360,7,Customer_277,Consumer Electronics,Japan,North America,303,8640,1368
+1,2023-12-02,1210,Product_1037,Robotics,44,819,487,Customer_139,Consumer Electronics,China,North America,348,36036,20724
+1526,2023-12-02,1494,Product_1080,Robotics,17,843,148,Customer_328,Automotive,USA,Europe,361,14331,8194
+1981,2023-12-02,1382,Product_1318,Robotics,8,235,74,Customer_180,Automotive,Germany,North America,148,1880,696
+8492,2023-12-02,1161,Product_1476,Robotics,50,573,499,Customer_79,Automotive,China,Asia-Pacific,412,28650,8050
+7694,2023-12-02,1311,Product_1473,Robotics,14,519,251,Customer_160,Industrial,China,Asia-Pacific,509,7266,140
+8804,2023-12-02,1325,Product_1265,Robotics,55,171,197,Customer_178,Automotive,China,North America,323,9405,-8360
+6782,2023-12-02,1157,Product_1020,Robotics,38,983,433,Customer_160,Automotive,USA,Europe,147,37354,31768
+8267,2023-12-02,1392,Product_1318,Sensor,8,896,183,Customer_24,Industrial,South Korea,Asia-Pacific,173,7168,5784
+2868,2023-12-02,1206,Product_1434,Robotics,6,926,477,Customer_224,Consumer Electronics,South Korea,North America,115,5556,4866
+6153,2023-12-02,1299,Product_1055,Sensor,6,676,278,Customer_148,Automotive,China,North America,446,4056,1380
+5249,2023-12-02,1023,Product_1217,Robotics,7,838,394,Customer_98,Consumer Electronics,Germany,Asia-Pacific,251,5866,4109
+5897,2023-12-02,1497,Product_1025,Sensor,7,303,321,Customer_261,Industrial,USA,Europe,744,2121,-3087
+4702,2023-12-02,1002,Product_1078,Microchip,65,476,231,Customer_285,Consumer Electronics,Germany,Europe,148,30940,21320
+6713,2023-12-02,1171,Product_1061,Sensor,14,323,226,Customer_373,Industrial,Japan,Europe,161,4522,2268
+3108,2023-12-02,1395,Product_1270,Sensor,37,983,475,Customer_399,Industrial,USA,North America,712,36371,10027
+1800,2023-12-02,1109,Product_1270,Sensor,30,449,147,Customer_229,Consumer Electronics,Germany,Europe,260,13470,5670
+6356,2023-12-02,1192,Product_1252,Robotics,7,47,126,Customer_139,Industrial,Germany,Europe,470,329,-2961
+7513,2023-12-02,1051,Product_1116,Robotics,25,807,378,Customer_96,Consumer Electronics,Germany,North America,650,20175,3925
+2242,2023-12-02,1463,Product_1229,Sensor,36,423,423,Customer_446,Industrial,Japan,Europe,19,15228,14544
+8794,2023-12-02,1029,Product_1152,Robotics,70,610,377,Customer_30,Industrial,Japan,Europe,629,42700,-1330
+8578,2023-12-02,1486,Product_1195,Robotics,97,412,364,Customer_464,Industrial,China,Asia-Pacific,295,39964,11349
+5219,2023-12-02,1104,Product_1157,Sensor,59,843,10,Customer_288,Industrial,Japan,North America,233,49737,35990
+5733,2023-12-02,1352,Product_1164,Sensor,17,273,172,Customer_172,Industrial,Germany,Europe,505,4641,-3944
+4758,2023-12-02,1112,Product_1380,Sensor,45,282,214,Customer_34,Consumer Electronics,South Korea,North America,523,12690,-10845
+3085,2023-12-02,1303,Product_1373,Microchip,11,233,333,Customer_172,Industrial,Japan,North America,318,2563,-935
+5280,2023-12-02,1327,Product_1006,Microchip,14,259,205,Customer_186,Industrial,Japan,Asia-Pacific,505,3626,-3444
+9100,2023-12-02,1235,Product_1275,Sensor,95,677,116,Customer_448,Consumer Electronics,Germany,North America,226,64315,42845
+1564,2023-12-02,1085,Product_1284,Sensor,73,99,394,Customer_459,Industrial,South Korea,Europe,422,7227,-23579
+3569,2023-12-02,1049,Product_1375,Robotics,86,666,75,Customer_428,Automotive,Germany,Europe,642,57276,2064
+8734,2023-12-02,1354,Product_1238,Microchip,14,390,109,Customer_213,Consumer Electronics,South Korea,Asia-Pacific,543,5460,-2142
+2353,2023-12-03,1007,Product_1240,Robotics,16,972,343,Customer_203,Industrial,South Korea,North America,439,15552,8528
+2721,2023-12-03,1029,Product_1132,Robotics,28,225,299,Customer_166,Automotive,South Korea,Asia-Pacific,647,6300,-11816
+9743,2023-12-03,1390,Product_1399,Sensor,70,470,80,Customer_83,Industrial,Japan,North America,669,32900,-13930
+9931,2023-12-03,1167,Product_1248,Sensor,50,128,149,Customer_110,Automotive,South Korea,Europe,16,6400,5600
+8001,2023-12-03,1150,Product_1165,Sensor,86,934,113,Customer_418,Automotive,South Korea,Asia-Pacific,196,80324,63468
+5597,2023-12-03,1469,Product_1453,Microchip,47,74,134,Customer_483,Automotive,Japan,Europe,24,3478,2350
+8721,2023-12-03,1045,Product_1492,Sensor,61,873,181,Customer_182,Automotive,South Korea,Asia-Pacific,542,53253,20191
+4308,2023-12-03,1083,Product_1466,Sensor,28,842,420,Customer_375,Industrial,Germany,Asia-Pacific,709,23576,3724
+8711,2023-12-03,1387,Product_1459,Microchip,51,349,209,Customer_110,Industrial,South Korea,North America,151,17799,10098
+6729,2023-12-03,1015,Product_1118,Robotics,42,741,270,Customer_75,Consumer Electronics,South Korea,North America,70,31122,28182
+3831,2023-12-03,1168,Product_1497,Robotics,69,389,201,Customer_216,Automotive,Germany,Europe,457,26841,-4692
+999,2023-12-03,1357,Product_1168,Microchip,78,223,115,Customer_281,Consumer Electronics,Japan,Asia-Pacific,421,17394,-15444
+1489,2023-12-03,1065,Product_1436,Sensor,21,188,145,Customer_493,Automotive,Japan,North America,109,3948,1659
+7303,2023-12-03,1265,Product_1331,Microchip,46,681,407,Customer_198,Automotive,Japan,Europe,431,31326,11500
+5753,2023-12-03,1479,Product_1238,Microchip,87,118,92,Customer_257,Consumer Electronics,Japan,Asia-Pacific,436,10266,-27666
+8614,2023-12-03,1338,Product_1390,Sensor,79,754,472,Customer_132,Industrial,South Korea,Europe,60,59566,54826
+9534,2023-12-03,1037,Product_1497,Robotics,84,272,421,Customer_267,Industrial,China,North America,493,22848,-18564
+3077,2023-12-03,1248,Product_1112,Microchip,76,111,317,Customer_105,Automotive,China,Europe,373,8436,-19912
+5173,2023-12-03,1302,Product_1178,Sensor,1,108,417,Customer_220,Automotive,Japan,Asia-Pacific,12,108,96
+7220,2023-12-03,1141,Product_1110,Robotics,27,338,108,Customer_241,Automotive,South Korea,Europe,354,9126,-432
+1747,2023-12-03,1412,Product_1145,Sensor,16,52,152,Customer_429,Automotive,USA,North America,447,832,-6320
+2484,2023-12-03,1195,Product_1387,Microchip,53,362,214,Customer_382,Industrial,China,Asia-Pacific,656,19186,-15582
+6233,2023-12-03,1007,Product_1416,Robotics,79,35,317,Customer_93,Automotive,China,North America,544,2765,-40211
+906,2023-12-03,1029,Product_1035,Robotics,96,474,191,Customer_88,Automotive,Germany,Asia-Pacific,664,45504,-18240
+9062,2023-12-03,1438,Product_1258,Sensor,25,327,284,Customer_474,Consumer Electronics,South Korea,Asia-Pacific,169,8175,3950
+1067,2023-12-03,1448,Product_1308,Robotics,39,268,56,Customer_16,Consumer Electronics,Germany,North America,509,10452,-9399
+6777,2023-12-03,1148,Product_1186,Microchip,43,663,312,Customer_295,Industrial,Germany,North America,117,28509,23478
+3143,2023-12-03,1009,Product_1074,Robotics,20,305,105,Customer_391,Consumer Electronics,South Korea,Europe,136,6100,3380
+8467,2023-12-03,1170,Product_1363,Robotics,61,827,400,Customer_19,Automotive,China,Asia-Pacific,388,50447,26779
+1534,2023-12-03,1219,Product_1476,Sensor,50,724,49,Customer_354,Automotive,China,Asia-Pacific,456,36200,13400
+9689,2023-12-03,1390,Product_1105,Robotics,89,705,272,Customer_281,Consumer Electronics,South Korea,Europe,416,62745,25721
+8312,2023-12-03,1043,Product_1036,Robotics,4,636,407,Customer_93,Automotive,Japan,North America,770,2544,-536
+7550,2023-12-03,1281,Product_1059,Microchip,14,833,72,Customer_346,Consumer Electronics,Germany,Asia-Pacific,743,11662,1260
+6960,2023-12-04,1301,Product_1200,Sensor,30,680,305,Customer_415,Consumer Electronics,China,Europe,224,20400,13680
+260,2023-12-04,1284,Product_1161,Microchip,97,65,110,Customer_498,Industrial,USA,Europe,510,6305,-43165
+127,2023-12-04,1447,Product_1100,Microchip,94,583,328,Customer_441,Automotive,South Korea,Europe,784,54802,-18894
+5146,2023-12-04,1307,Product_1426,Microchip,15,29,287,Customer_480,Consumer Electronics,Germany,Asia-Pacific,46,435,-255
+9531,2023-12-04,1096,Product_1338,Sensor,41,56,410,Customer_432,Consumer Electronics,China,Asia-Pacific,103,2296,-1927
+5359,2023-12-04,1068,Product_1489,Robotics,88,404,495,Customer_313,Industrial,USA,Europe,433,35552,-2552
+651,2023-12-04,1187,Product_1419,Robotics,38,407,252,Customer_346,Industrial,Germany,Asia-Pacific,51,15466,13528
+2081,2023-12-04,1290,Product_1143,Robotics,54,772,402,Customer_368,Automotive,USA,North America,284,41688,26352
+9538,2023-12-04,1466,Product_1295,Microchip,17,524,475,Customer_64,Automotive,Germany,Europe,655,8908,-2227
+6754,2023-12-04,1499,Product_1478,Microchip,84,875,374,Customer_465,Industrial,South Korea,Europe,53,73500,69048
+1197,2023-12-04,1115,Product_1253,Microchip,89,414,435,Customer_228,Automotive,South Korea,North America,185,36846,20381
+5826,2023-12-04,1333,Product_1377,Robotics,57,778,181,Customer_35,Industrial,China,Europe,624,44346,8778
+7124,2023-12-04,1348,Product_1303,Microchip,93,695,55,Customer_394,Consumer Electronics,South Korea,North America,302,64635,36549
+8588,2023-12-04,1143,Product_1336,Robotics,46,563,297,Customer_353,Consumer Electronics,USA,Europe,444,25898,5474
+4941,2023-12-04,1428,Product_1461,Sensor,53,561,24,Customer_20,Consumer Electronics,USA,North America,485,29733,4028
+7464,2023-12-04,1410,Product_1404,Microchip,24,535,475,Customer_52,Consumer Electronics,Germany,Europe,173,12840,8688
+4341,2023-12-04,1010,Product_1041,Sensor,53,34,293,Customer_480,Industrial,Japan,Asia-Pacific,123,1802,-4717
+8992,2023-12-04,1255,Product_1442,Sensor,94,752,168,Customer_264,Consumer Electronics,Germany,North America,648,70688,9776
+1338,2023-12-04,1251,Product_1473,Sensor,54,424,209,Customer_208,Industrial,South Korea,Europe,310,22896,6156
+8246,2023-12-04,1429,Product_1405,Sensor,60,574,451,Customer_27,Industrial,Germany,North America,216,34440,21480
+8572,2023-12-04,1055,Product_1294,Microchip,28,781,233,Customer_114,Automotive,Japan,Europe,735,21868,1288
+1818,2023-12-04,1311,Product_1038,Robotics,98,754,112,Customer_188,Consumer Electronics,Japan,Europe,181,73892,56154
+9005,2023-12-04,1154,Product_1285,Microchip,8,111,495,Customer_106,Industrial,South Korea,Europe,436,888,-2600
+2701,2023-12-04,1400,Product_1426,Robotics,15,78,133,Customer_11,Consumer Electronics,South Korea,Europe,743,1170,-9975
+9413,2023-12-05,1450,Product_1431,Robotics,47,255,442,Customer_263,Automotive,Japan,Europe,253,11985,94
+565,2023-12-05,1010,Product_1158,Sensor,78,788,476,Customer_383,Consumer Electronics,USA,North America,381,61464,31746
+6405,2023-12-05,1040,Product_1089,Robotics,21,584,62,Customer_406,Industrial,USA,Asia-Pacific,743,12264,-3339
+772,2023-12-05,1323,Product_1466,Microchip,49,337,206,Customer_428,Consumer Electronics,USA,North America,228,16513,5341
+4270,2023-12-05,1383,Product_1356,Microchip,49,45,108,Customer_433,Industrial,USA,North America,274,2205,-11221
+8570,2023-12-05,1102,Product_1420,Robotics,65,474,290,Customer_358,Industrial,Japan,North America,497,30810,-1495
+7673,2023-12-05,1361,Product_1456,Robotics,82,150,93,Customer_117,Automotive,USA,Europe,309,12300,-13038
+1772,2023-12-05,1399,Product_1365,Robotics,23,22,12,Customer_371,Automotive,South Korea,Europe,253,506,-5313
+8112,2023-12-05,1349,Product_1420,Sensor,30,325,290,Customer_6,Consumer Electronics,China,Europe,436,9750,-3330
+3889,2023-12-05,1218,Product_1007,Robotics,69,144,258,Customer_332,Automotive,China,Asia-Pacific,475,9936,-22839
+533,2023-12-05,1352,Product_1380,Robotics,42,716,300,Customer_266,Automotive,Japan,Europe,688,30072,1176
+1201,2023-12-05,1317,Product_1130,Robotics,69,858,75,Customer_330,Consumer Electronics,South Korea,North America,479,59202,26151
+7489,2023-12-05,1237,Product_1251,Microchip,7,949,387,Customer_440,Consumer Electronics,Japan,Europe,387,6643,3934
+2772,2023-12-05,1302,Product_1384,Robotics,74,517,225,Customer_399,Automotive,Germany,Asia-Pacific,287,38258,17020
+1231,2023-12-05,1492,Product_1467,Microchip,51,558,405,Customer_156,Automotive,South Korea,North America,404,28458,7854
+8484,2023-12-05,1180,Product_1243,Microchip,60,940,267,Customer_327,Automotive,Germany,Asia-Pacific,370,56400,34200
+1321,2023-12-05,1239,Product_1213,Microchip,31,82,345,Customer_133,Consumer Electronics,South Korea,Europe,456,2542,-11594
+7929,2023-12-05,1235,Product_1207,Microchip,10,303,126,Customer_133,Consumer Electronics,USA,North America,495,3030,-1920
+7289,2023-12-05,1233,Product_1375,Sensor,97,22,260,Customer_16,Industrial,USA,North America,712,2134,-66930
+2656,2023-12-05,1409,Product_1092,Sensor,69,448,16,Customer_166,Industrial,Japan,Europe,477,30912,-2001
+3970,2023-12-05,1199,Product_1468,Robotics,2,716,334,Customer_328,Automotive,Japan,Asia-Pacific,501,1432,430
+3205,2023-12-05,1131,Product_1489,Sensor,54,914,450,Customer_460,Industrial,Germany,Europe,231,49356,36882
+70,2023-12-05,1176,Product_1002,Robotics,40,573,151,Customer_250,Automotive,Germany,Asia-Pacific,752,22920,-7160
+3491,2023-12-05,1351,Product_1412,Robotics,97,247,419,Customer_255,Consumer Electronics,Japan,Asia-Pacific,765,23959,-50246
+7758,2023-12-05,1206,Product_1372,Microchip,27,361,74,Customer_345,Consumer Electronics,USA,North America,60,9747,8127
+294,2023-12-05,1320,Product_1197,Robotics,99,895,120,Customer_269,Consumer Electronics,China,Asia-Pacific,167,88605,72072
+1852,2023-12-05,1343,Product_1369,Robotics,25,976,45,Customer_493,Automotive,South Korea,Asia-Pacific,284,24400,17300
+5240,2023-12-05,1114,Product_1017,Microchip,43,730,39,Customer_84,Consumer Electronics,South Korea,North America,723,31390,301
+8823,2023-12-05,1354,Product_1124,Robotics,41,160,81,Customer_194,Consumer Electronics,USA,Europe,650,6560,-20090
+9769,2023-12-06,1018,Product_1100,Robotics,36,829,276,Customer_497,Industrial,Japan,Europe,243,29844,21096
+189,2023-12-06,1019,Product_1157,Sensor,32,45,312,Customer_340,Consumer Electronics,USA,Europe,515,1440,-15040
+7665,2023-12-06,1001,Product_1134,Robotics,77,137,21,Customer_475,Automotive,Germany,Europe,14,10549,9471
+3419,2023-12-06,1122,Product_1239,Robotics,40,78,428,Customer_6,Consumer Electronics,USA,Asia-Pacific,409,3120,-13240
+2796,2023-12-06,1061,Product_1388,Sensor,49,318,375,Customer_105,Industrial,USA,Europe,519,15582,-9849
+8382,2023-12-06,1221,Product_1417,Robotics,37,180,333,Customer_483,Consumer Electronics,Germany,Europe,406,6660,-8362
+6471,2023-12-06,1211,Product_1224,Sensor,52,403,157,Customer_147,Automotive,USA,Europe,366,20956,1924
+813,2023-12-06,1303,Product_1092,Robotics,40,761,309,Customer_100,Consumer Electronics,Japan,Asia-Pacific,51,30440,28400
+8432,2023-12-06,1327,Product_1059,Sensor,69,109,38,Customer_356,Consumer Electronics,USA,Asia-Pacific,299,7521,-13110
+4592,2023-12-06,1090,Product_1192,Sensor,26,45,100,Customer_337,Industrial,USA,Asia-Pacific,458,1170,-10738
+2114,2023-12-06,1096,Product_1330,Microchip,16,758,410,Customer_2,Automotive,USA,Europe,83,12128,10800
+6372,2023-12-06,1373,Product_1426,Sensor,7,684,27,Customer_85,Industrial,Germany,North America,135,4788,3843
+3469,2023-12-06,1136,Product_1212,Robotics,32,638,278,Customer_258,Consumer Electronics,China,Asia-Pacific,716,20416,-2496
+1020,2023-12-06,1485,Product_1449,Sensor,68,462,400,Customer_105,Industrial,USA,Europe,197,31416,18020
+761,2023-12-06,1220,Product_1357,Robotics,48,817,486,Customer_145,Industrial,China,Asia-Pacific,310,39216,24336
+5382,2023-12-06,1234,Product_1376,Sensor,47,18,170,Customer_183,Consumer Electronics,Germany,Asia-Pacific,562,846,-25568
+6539,2023-12-06,1218,Product_1360,Sensor,71,505,437,Customer_89,Consumer Electronics,USA,Asia-Pacific,634,35855,-9159
+2736,2023-12-06,1056,Product_1158,Sensor,77,828,265,Customer_264,Automotive,Japan,Asia-Pacific,752,63756,5852
+8242,2023-12-06,1455,Product_1230,Robotics,66,686,281,Customer_472,Automotive,China,Europe,657,45276,1914
+3999,2023-12-06,1302,Product_1232,Robotics,14,949,171,Customer_321,Consumer Electronics,USA,Asia-Pacific,339,13286,8540
+2890,2023-12-06,1088,Product_1047,Sensor,18,325,226,Customer_368,Automotive,USA,Europe,428,5850,-1854
+9735,2023-12-06,1370,Product_1399,Robotics,76,585,25,Customer_92,Consumer Electronics,USA,Asia-Pacific,283,44460,22952
+2723,2023-12-06,1466,Product_1406,Microchip,70,59,68,Customer_126,Consumer Electronics,Germany,Europe,155,4130,-6720
+9541,2023-12-06,1135,Product_1280,Microchip,43,708,209,Customer_229,Consumer Electronics,Japan,Europe,329,30444,16297
+3114,2023-12-07,1066,Product_1489,Robotics,52,657,101,Customer_404,Consumer Electronics,Germany,North America,37,34164,32240
+8317,2023-12-07,1460,Product_1389,Microchip,35,864,371,Customer_436,Industrial,Germany,Europe,593,30240,9485
+8352,2023-12-07,1260,Product_1255,Microchip,14,326,445,Customer_241,Automotive,USA,Europe,317,4564,126
+1928,2023-12-07,1006,Product_1163,Sensor,60,741,430,Customer_256,Industrial,USA,North America,101,44460,38400
+4667,2023-12-07,1219,Product_1157,Microchip,93,612,288,Customer_222,Consumer Electronics,Germany,Europe,99,56916,47709
+2167,2023-12-07,1044,Product_1477,Microchip,39,717,400,Customer_185,Automotive,Japan,Europe,509,27963,8112
+9336,2023-12-07,1257,Product_1386,Robotics,15,368,299,Customer_55,Automotive,Japan,Asia-Pacific,554,5520,-2790
+8512,2023-12-07,1278,Product_1030,Sensor,53,91,290,Customer_280,Consumer Electronics,China,North America,147,4823,-2968
+1773,2023-12-07,1376,Product_1492,Robotics,81,616,13,Customer_339,Industrial,USA,North America,531,49896,6885
+3493,2023-12-07,1166,Product_1244,Robotics,27,280,51,Customer_338,Industrial,Japan,Asia-Pacific,712,7560,-11664
+4786,2023-12-07,1361,Product_1116,Microchip,47,352,201,Customer_362,Automotive,USA,North America,593,16544,-11327
+4746,2023-12-07,1411,Product_1138,Robotics,21,798,474,Customer_257,Consumer Electronics,Japan,Asia-Pacific,608,16758,3990
+3429,2023-12-07,1454,Product_1001,Microchip,94,519,446,Customer_26,Automotive,Germany,Asia-Pacific,489,48786,2820
+4079,2023-12-07,1371,Product_1372,Microchip,7,346,491,Customer_269,Consumer Electronics,South Korea,Europe,686,2422,-2380
+9674,2023-12-07,1078,Product_1480,Microchip,89,219,32,Customer_137,Automotive,USA,Europe,291,19491,-6408
+5706,2023-12-07,1130,Product_1486,Robotics,87,473,229,Customer_494,Consumer Electronics,China,Europe,218,41151,22185
+7035,2023-12-07,1472,Product_1049,Sensor,73,104,155,Customer_398,Industrial,South Korea,North America,171,7592,-4891
+9020,2023-12-07,1200,Product_1310,Sensor,75,154,181,Customer_23,Industrial,Japan,Europe,381,11550,-17025
+1590,2023-12-07,1318,Product_1353,Sensor,75,852,31,Customer_476,Automotive,China,North America,640,63900,15900
+528,2023-12-07,1080,Product_1395,Sensor,8,292,478,Customer_328,Industrial,Japan,North America,664,2336,-2976
+9436,2023-12-07,1300,Product_1210,Microchip,84,208,353,Customer_176,Industrial,Germany,Asia-Pacific,756,17472,-46032
+5794,2023-12-07,1475,Product_1171,Robotics,10,704,401,Customer_409,Industrial,USA,Europe,350,7040,3540
+2256,2023-12-07,1135,Product_1046,Robotics,13,130,409,Customer_343,Industrial,South Korea,Asia-Pacific,799,1690,-8697
+7579,2023-12-07,1117,Product_1473,Robotics,7,130,382,Customer_489,Industrial,Germany,Europe,140,910,-70
+6365,2023-12-07,1142,Product_1451,Sensor,34,97,393,Customer_395,Industrial,China,North America,517,3298,-14280
+5750,2023-12-07,1055,Product_1011,Microchip,46,347,339,Customer_210,Consumer Electronics,Japan,Europe,436,15962,-4094
+2725,2023-12-07,1422,Product_1348,Robotics,18,298,2,Customer_177,Consumer Electronics,South Korea,Asia-Pacific,384,5364,-1548
+6452,2023-12-07,1241,Product_1022,Sensor,96,915,280,Customer_476,Automotive,Japan,Asia-Pacific,232,87840,65568
+8932,2023-12-07,1490,Product_1279,Sensor,75,889,395,Customer_335,Industrial,China,Europe,154,66675,55125
+7415,2023-12-07,1313,Product_1248,Robotics,86,696,136,Customer_303,Industrial,Germany,Asia-Pacific,246,59856,38700
+2746,2023-12-07,1038,Product_1005,Robotics,73,719,170,Customer_216,Industrial,USA,Europe,43,52487,49348
+5690,2023-12-08,1099,Product_1215,Sensor,77,890,154,Customer_5,Industrial,China,North America,285,68530,46585
+7485,2023-12-08,1226,Product_1482,Robotics,99,538,104,Customer_243,Industrial,Japan,Europe,482,53262,5544
+7862,2023-12-08,1017,Product_1201,Microchip,63,763,289,Customer_335,Consumer Electronics,USA,North America,574,48069,11907
+3574,2023-12-08,1329,Product_1278,Microchip,16,404,405,Customer_431,Industrial,USA,Europe,171,6464,3728
+672,2023-12-08,1395,Product_1276,Microchip,80,30,171,Customer_440,Automotive,USA,North America,564,2400,-42720
+1078,2023-12-08,1426,Product_1426,Sensor,59,339,421,Customer_106,Automotive,Germany,Asia-Pacific,508,20001,-9971
+9993,2023-12-08,1494,Product_1435,Robotics,98,335,318,Customer_265,Automotive,Japan,North America,238,32830,9506
+7821,2023-12-08,1328,Product_1475,Sensor,71,477,352,Customer_404,Industrial,China,Asia-Pacific,70,33867,28897
+1124,2023-12-08,1431,Product_1169,Microchip,26,907,230,Customer_170,Industrial,China,Europe,276,23582,16406
+1225,2023-12-08,1289,Product_1485,Robotics,99,858,206,Customer_46,Consumer Electronics,USA,North America,228,84942,62370
+9468,2023-12-08,1362,Product_1227,Robotics,14,105,242,Customer_60,Industrial,China,Europe,675,1470,-7980
+1396,2023-12-08,1390,Product_1357,Robotics,8,910,192,Customer_101,Industrial,USA,Asia-Pacific,265,7280,5160
+8777,2023-12-08,1324,Product_1245,Robotics,44,441,422,Customer_84,Automotive,South Korea,North America,517,19404,-3344
+8197,2023-12-08,1073,Product_1382,Robotics,76,129,306,Customer_88,Industrial,China,North America,611,9804,-36632
+330,2023-12-08,1491,Product_1072,Robotics,96,243,200,Customer_155,Automotive,Japan,Europe,593,23328,-33600
+4378,2023-12-08,1174,Product_1095,Sensor,89,580,11,Customer_72,Consumer Electronics,USA,Asia-Pacific,371,51620,18601
+2457,2023-12-08,1432,Product_1017,Robotics,69,551,39,Customer_305,Consumer Electronics,USA,Europe,391,38019,11040
+9001,2023-12-08,1200,Product_1392,Sensor,18,611,298,Customer_297,Consumer Electronics,USA,Asia-Pacific,448,10998,2934
+208,2023-12-08,1404,Product_1335,Robotics,81,539,84,Customer_262,Industrial,China,North America,370,43659,13689
+2197,2023-12-08,1012,Product_1381,Robotics,19,22,340,Customer_195,Industrial,China,North America,9,418,247
+6924,2023-12-08,1252,Product_1265,Microchip,74,696,227,Customer_350,Industrial,South Korea,Europe,530,51504,12284
+8341,2023-12-08,1293,Product_1148,Microchip,95,770,361,Customer_361,Consumer Electronics,China,North America,370,73150,38000
+5294,2023-12-08,1099,Product_1035,Robotics,35,932,311,Customer_323,Industrial,South Korea,Europe,204,32620,25480
+3812,2023-12-08,1149,Product_1048,Sensor,92,269,199,Customer_177,Industrial,Japan,Asia-Pacific,42,24748,20884
+6062,2023-12-08,1443,Product_1366,Microchip,39,436,269,Customer_107,Industrial,Japan,Europe,300,17004,5304
+4420,2023-12-08,1100,Product_1447,Robotics,32,617,135,Customer_82,Automotive,China,North America,260,19744,11424
+3762,2023-12-08,1443,Product_1023,Robotics,80,855,236,Customer_29,Automotive,USA,North America,761,68400,7520
+4883,2023-12-08,1002,Product_1481,Sensor,68,705,136,Customer_374,Consumer Electronics,China,Asia-Pacific,404,47940,20468
+2860,2023-12-09,1344,Product_1101,Robotics,80,700,198,Customer_171,Industrial,USA,Europe,726,56000,-2080
+3979,2023-12-09,1434,Product_1446,Robotics,67,256,317,Customer_327,Automotive,China,Europe,178,17152,5226
+8143,2023-12-09,1371,Product_1440,Robotics,1,220,78,Customer_57,Consumer Electronics,South Korea,North America,544,220,-324
+2098,2023-12-09,1390,Product_1389,Robotics,49,63,269,Customer_464,Automotive,Germany,North America,373,3087,-15190
+8204,2023-12-09,1474,Product_1432,Microchip,77,972,390,Customer_50,Automotive,South Korea,Asia-Pacific,139,74844,64141
+8099,2023-12-09,1187,Product_1082,Robotics,79,640,312,Customer_48,Automotive,USA,Europe,9,50560,49849
+3261,2023-12-09,1444,Product_1238,Sensor,7,98,221,Customer_247,Industrial,South Korea,North America,594,686,-3472
+878,2023-12-09,1207,Product_1202,Sensor,83,487,31,Customer_183,Industrial,Japan,Europe,725,40421,-19754
+8656,2023-12-09,1319,Product_1496,Microchip,67,847,78,Customer_19,Automotive,USA,Europe,108,56749,49513
+1696,2023-12-09,1417,Product_1360,Robotics,58,450,345,Customer_397,Automotive,USA,Asia-Pacific,468,26100,-1044
+8876,2023-12-09,1221,Product_1282,Robotics,35,858,113,Customer_54,Industrial,China,Asia-Pacific,534,30030,11340
+3277,2023-12-09,1289,Product_1043,Robotics,38,256,475,Customer_286,Consumer Electronics,Germany,Europe,621,9728,-13870
+3198,2023-12-09,1499,Product_1383,Microchip,59,133,270,Customer_197,Consumer Electronics,Japan,Asia-Pacific,751,7847,-36462
+5295,2023-12-09,1384,Product_1167,Robotics,74,351,24,Customer_247,Consumer Electronics,USA,North America,133,25974,16132
+6514,2023-12-09,1257,Product_1423,Sensor,68,776,212,Customer_8,Industrial,China,Europe,549,52768,15436
+1064,2023-12-09,1089,Product_1051,Microchip,26,116,319,Customer_355,Automotive,USA,Asia-Pacific,731,3016,-15990
+8735,2023-12-09,1197,Product_1296,Microchip,37,740,229,Customer_285,Automotive,China,Europe,328,27380,15244
+9601,2023-12-09,1206,Product_1174,Sensor,12,290,431,Customer_410,Industrial,Germany,Asia-Pacific,581,3480,-3492
+7379,2023-12-09,1157,Product_1406,Microchip,59,65,474,Customer_212,Industrial,USA,North America,297,3835,-13688
+5184,2023-12-09,1408,Product_1111,Sensor,54,282,301,Customer_212,Automotive,South Korea,North America,797,15228,-27810
+636,2023-12-10,1349,Product_1491,Robotics,82,89,109,Customer_59,Industrial,Germany,Asia-Pacific,89,7298,0
+5629,2023-12-10,1048,Product_1348,Microchip,80,96,324,Customer_392,Consumer Electronics,South Korea,Europe,424,7680,-26240
+7074,2023-12-10,1270,Product_1399,Sensor,29,437,337,Customer_328,Industrial,USA,North America,625,12673,-5452
+155,2023-12-10,1123,Product_1358,Sensor,70,653,69,Customer_110,Consumer Electronics,China,Europe,192,45710,32270
+4389,2023-12-10,1454,Product_1307,Sensor,79,417,347,Customer_358,Industrial,South Korea,Asia-Pacific,116,32943,23779
+9176,2023-12-10,1381,Product_1068,Robotics,73,523,160,Customer_21,Consumer Electronics,Germany,Asia-Pacific,38,38179,35405
+4232,2023-12-10,1420,Product_1354,Microchip,62,836,116,Customer_18,Industrial,USA,Europe,363,51832,29326
+8744,2023-12-10,1311,Product_1003,Sensor,81,666,337,Customer_176,Industrial,China,Europe,33,53946,51273
+6311,2023-12-10,1343,Product_1117,Microchip,17,980,97,Customer_102,Industrial,China,North America,787,16660,3281
+7465,2023-12-10,1400,Product_1365,Microchip,38,146,459,Customer_75,Automotive,USA,Europe,690,5548,-20672
+1679,2023-12-10,1392,Product_1017,Microchip,35,431,234,Customer_438,Consumer Electronics,South Korea,North America,794,15085,-12705
+9162,2023-12-10,1197,Product_1221,Sensor,67,336,40,Customer_222,Automotive,USA,Europe,277,22512,3953
+2738,2023-12-10,1161,Product_1059,Robotics,15,183,357,Customer_463,Automotive,China,North America,693,2745,-7650
+5737,2023-12-10,1054,Product_1486,Robotics,9,896,401,Customer_486,Automotive,South Korea,Asia-Pacific,576,8064,2880
+3042,2023-12-10,1439,Product_1264,Robotics,23,482,450,Customer_487,Consumer Electronics,Japan,North America,175,11086,7061
+6922,2023-12-10,1415,Product_1447,Microchip,86,433,2,Customer_79,Automotive,Japan,Asia-Pacific,134,37238,25714
+9261,2023-12-10,1268,Product_1052,Robotics,56,988,103,Customer_207,Industrial,China,North America,423,55328,31640
+4619,2023-12-10,1085,Product_1179,Microchip,15,424,243,Customer_34,Automotive,Germany,Asia-Pacific,718,6360,-4410
+7159,2023-12-10,1213,Product_1359,Sensor,42,507,320,Customer_115,Automotive,Germany,Asia-Pacific,296,21294,8862
+6596,2023-12-10,1283,Product_1354,Microchip,92,39,392,Customer_151,Consumer Electronics,South Korea,North America,789,3588,-69000
+1017,2023-12-10,1020,Product_1058,Robotics,12,611,451,Customer_426,Industrial,Japan,Europe,275,7332,4032
+2072,2023-12-10,1342,Product_1426,Robotics,9,344,343,Customer_485,Consumer Electronics,Japan,North America,507,3096,-1467
+1127,2023-12-10,1289,Product_1497,Robotics,13,652,227,Customer_250,Industrial,Germany,Europe,549,8476,1339
+5014,2023-12-10,1426,Product_1497,Robotics,57,232,259,Customer_417,Automotive,Germany,Europe,442,13224,-11970
+4984,2023-12-11,1181,Product_1149,Robotics,7,569,313,Customer_368,Consumer Electronics,USA,Asia-Pacific,604,3983,-245
+7235,2023-12-11,1187,Product_1205,Sensor,60,827,301,Customer_330,Automotive,USA,Asia-Pacific,131,49620,41760
+6219,2023-12-11,1087,Product_1131,Robotics,68,127,355,Customer_140,Consumer Electronics,USA,North America,275,8636,-10064
+5877,2023-12-11,1199,Product_1324,Sensor,44,225,366,Customer_483,Industrial,South Korea,North America,724,9900,-21956
+1608,2023-12-11,1275,Product_1495,Sensor,46,526,121,Customer_383,Automotive,Germany,North America,27,24196,22954
+3742,2023-12-11,1288,Product_1097,Sensor,36,185,444,Customer_140,Consumer Electronics,Germany,North America,263,6660,-2808
+4159,2023-12-11,1284,Product_1038,Sensor,33,512,333,Customer_156,Automotive,USA,Asia-Pacific,721,16896,-6897
+9593,2023-12-11,1498,Product_1204,Microchip,86,360,2,Customer_319,Automotive,Japan,Europe,728,30960,-31648
+8078,2023-12-11,1440,Product_1325,Microchip,63,254,304,Customer_6,Automotive,Japan,Europe,741,16002,-30681
+8064,2023-12-11,1012,Product_1033,Robotics,6,336,210,Customer_274,Automotive,Germany,Europe,394,2016,-348
+7544,2023-12-11,1021,Product_1269,Microchip,6,765,108,Customer_153,Industrial,USA,Asia-Pacific,795,4590,-180
+5077,2023-12-11,1105,Product_1104,Robotics,23,945,283,Customer_465,Industrial,Germany,Asia-Pacific,499,21735,10258
+6824,2023-12-11,1398,Product_1499,Microchip,44,482,291,Customer_440,Automotive,South Korea,Asia-Pacific,490,21208,-352
+3385,2023-12-11,1330,Product_1399,Robotics,50,734,310,Customer_198,Automotive,Germany,Europe,580,36700,7700
+5311,2023-12-11,1325,Product_1498,Microchip,34,252,169,Customer_258,Industrial,China,North America,625,8568,-12682
+3444,2023-12-11,1281,Product_1266,Microchip,5,210,73,Customer_426,Consumer Electronics,South Korea,Asia-Pacific,569,1050,-1795
+9489,2023-12-11,1350,Product_1470,Robotics,31,96,180,Customer_426,Automotive,Japan,Asia-Pacific,40,2976,1736
+4750,2023-12-11,1304,Product_1186,Robotics,96,472,309,Customer_221,Consumer Electronics,China,Asia-Pacific,115,45312,34272
+3576,2023-12-11,1431,Product_1106,Sensor,16,865,58,Customer_408,Automotive,Germany,Asia-Pacific,468,13840,6352
+4346,2023-12-11,1321,Product_1357,Sensor,24,193,386,Customer_276,Consumer Electronics,China,North America,759,4632,-13584
+8354,2023-12-11,1289,Product_1164,Microchip,98,307,414,Customer_437,Industrial,China,North America,424,30086,-11466
+5841,2023-12-11,1040,Product_1191,Robotics,48,471,291,Customer_236,Consumer Electronics,China,North America,480,22608,-432
+1945,2023-12-11,1311,Product_1047,Sensor,89,267,461,Customer_100,Industrial,China,Asia-Pacific,177,23763,8010
+8593,2023-12-12,1189,Product_1047,Sensor,10,378,345,Customer_151,Automotive,China,North America,289,3780,890
+9546,2023-12-12,1491,Product_1242,Sensor,97,641,232,Customer_45,Automotive,China,Europe,674,62177,-3201
+1843,2023-12-12,1260,Product_1388,Sensor,55,365,430,Customer_307,Industrial,Germany,Asia-Pacific,342,20075,1265
+1319,2023-12-12,1357,Product_1281,Microchip,49,781,338,Customer_84,Industrial,China,Europe,587,38269,9506
+6145,2023-12-12,1119,Product_1201,Sensor,88,42,476,Customer_118,Automotive,Germany,Europe,532,3696,-43120
+5439,2023-12-12,1486,Product_1486,Sensor,54,308,241,Customer_414,Consumer Electronics,South Korea,Asia-Pacific,225,16632,4482
+2899,2023-12-12,1403,Product_1083,Microchip,50,722,144,Customer_267,Industrial,Germany,North America,511,36100,10550
+8388,2023-12-12,1433,Product_1019,Microchip,5,319,214,Customer_311,Consumer Electronics,Japan,Europe,702,1595,-1915
+4065,2023-12-12,1248,Product_1364,Sensor,49,644,19,Customer_263,Automotive,Japan,North America,183,31556,22589
+6694,2023-12-12,1281,Product_1414,Microchip,31,924,301,Customer_143,Industrial,South Korea,Europe,30,28644,27714
+1448,2023-12-12,1047,Product_1030,Microchip,71,162,162,Customer_316,Consumer Electronics,China,Europe,538,11502,-26696
+452,2023-12-12,1008,Product_1320,Sensor,47,264,220,Customer_355,Automotive,Germany,Asia-Pacific,167,12408,4559
+3178,2023-12-12,1465,Product_1228,Microchip,74,843,473,Customer_72,Industrial,South Korea,North America,755,62382,6512
+9755,2023-12-12,1278,Product_1221,Sensor,7,714,36,Customer_139,Consumer Electronics,Japan,Asia-Pacific,354,4998,2520
+5141,2023-12-12,1379,Product_1385,Robotics,43,35,175,Customer_31,Consumer Electronics,South Korea,Asia-Pacific,588,1505,-23779
+2263,2023-12-12,1013,Product_1111,Sensor,13,752,191,Customer_184,Industrial,China,Asia-Pacific,570,9776,2366
+6342,2023-12-12,1451,Product_1365,Robotics,39,734,444,Customer_450,Industrial,Japan,Europe,772,28626,-1482
+7239,2023-12-12,1226,Product_1065,Sensor,96,487,403,Customer_377,Consumer Electronics,South Korea,Europe,206,46752,26976
+22,2023-12-12,1346,Product_1210,Sensor,99,385,405,Customer_261,Consumer Electronics,China,Europe,490,38115,-10395
+3601,2023-12-12,1256,Product_1381,Sensor,86,772,99,Customer_181,Automotive,USA,Europe,235,66392,46182
+942,2023-12-12,1221,Product_1096,Microchip,79,120,262,Customer_145,Consumer Electronics,South Korea,North America,749,9480,-49691
+9917,2023-12-12,1134,Product_1309,Robotics,76,74,26,Customer_151,Consumer Electronics,USA,North America,41,5624,2508
+2403,2023-12-12,1330,Product_1050,Robotics,91,754,400,Customer_81,Consumer Electronics,China,Asia-Pacific,349,68614,36855
+9591,2023-12-12,1491,Product_1289,Sensor,18,638,217,Customer_424,Industrial,USA,Asia-Pacific,98,11484,9720
+4801,2023-12-12,1313,Product_1171,Microchip,31,402,57,Customer_257,Automotive,China,Asia-Pacific,335,12462,2077
+8300,2023-12-12,1364,Product_1201,Sensor,27,454,305,Customer_161,Consumer Electronics,South Korea,Asia-Pacific,130,12258,8748
+2452,2023-12-12,1299,Product_1160,Sensor,56,478,31,Customer_194,Consumer Electronics,China,Europe,94,26768,21504
+2991,2023-12-12,1312,Product_1312,Robotics,82,131,213,Customer_352,Consumer Electronics,South Korea,Europe,322,10742,-15662
+3920,2023-12-13,1460,Product_1217,Microchip,66,154,142,Customer_83,Automotive,USA,North America,659,10164,-33330
+9477,2023-12-13,1430,Product_1489,Microchip,35,637,365,Customer_451,Consumer Electronics,South Korea,Asia-Pacific,76,22295,19635
+1132,2023-12-13,1199,Product_1321,Sensor,66,314,285,Customer_180,Industrial,China,Europe,301,20724,858
+3944,2023-12-13,1329,Product_1259,Sensor,1,913,357,Customer_170,Industrial,USA,Asia-Pacific,524,913,389
+664,2023-12-13,1404,Product_1144,Sensor,11,180,342,Customer_169,Automotive,South Korea,North America,187,1980,-77
+5786,2023-12-13,1098,Product_1298,Sensor,43,738,18,Customer_307,Industrial,Germany,North America,176,31734,24166
+5688,2023-12-13,1156,Product_1306,Robotics,60,24,472,Customer_119,Consumer Electronics,South Korea,Europe,426,1440,-24120
+9014,2023-12-13,1199,Product_1016,Sensor,49,459,89,Customer_41,Consumer Electronics,Japan,Europe,750,22491,-14259
+4506,2023-12-13,1062,Product_1323,Robotics,96,649,235,Customer_151,Automotive,USA,Europe,680,62304,-2976
+4314,2023-12-13,1448,Product_1057,Microchip,39,109,275,Customer_420,Consumer Electronics,South Korea,Europe,659,4251,-21450
+8141,2023-12-13,1367,Product_1482,Microchip,98,347,99,Customer_405,Consumer Electronics,Japan,Europe,264,34006,8134
+2156,2023-12-13,1337,Product_1464,Microchip,5,814,486,Customer_130,Consumer Electronics,Germany,Asia-Pacific,637,4070,885
+2819,2023-12-13,1389,Product_1035,Sensor,33,543,44,Customer_4,Automotive,China,Europe,236,17919,10131
+1932,2023-12-13,1218,Product_1336,Robotics,42,770,243,Customer_72,Automotive,USA,North America,72,32340,29316
+911,2023-12-13,1145,Product_1281,Sensor,88,354,1,Customer_272,Consumer Electronics,South Korea,North America,553,31152,-17512
+8085,2023-12-13,1011,Product_1172,Sensor,93,525,351,Customer_470,Automotive,Germany,Asia-Pacific,300,48825,20925
+5236,2023-12-13,1063,Product_1026,Microchip,63,252,365,Customer_71,Automotive,South Korea,Europe,617,15876,-22995
+276,2023-12-13,1312,Product_1438,Sensor,95,782,492,Customer_285,Consumer Electronics,South Korea,Asia-Pacific,158,74290,59280
+6926,2023-12-13,1015,Product_1217,Sensor,73,694,222,Customer_213,Automotive,Germany,Asia-Pacific,191,50662,36719
+8468,2023-12-13,1114,Product_1172,Robotics,16,73,57,Customer_205,Industrial,Germany,North America,323,1168,-4000
+4636,2023-12-13,1107,Product_1218,Sensor,44,341,362,Customer_185,Industrial,South Korea,Asia-Pacific,589,15004,-10912
+596,2023-12-13,1425,Product_1183,Sensor,64,437,268,Customer_325,Consumer Electronics,South Korea,North America,158,27968,17856
+9086,2023-12-14,1212,Product_1022,Microchip,62,22,117,Customer_498,Industrial,Japan,Europe,319,1364,-18414
+1998,2023-12-14,1126,Product_1463,Robotics,10,593,49,Customer_493,Automotive,South Korea,Asia-Pacific,727,5930,-1340
+7852,2023-12-14,1007,Product_1251,Microchip,14,401,53,Customer_329,Industrial,Germany,Europe,80,5614,4494
+5700,2023-12-14,1012,Product_1370,Robotics,8,920,408,Customer_295,Consumer Electronics,Japan,Europe,324,7360,4768
+4810,2023-12-14,1086,Product_1321,Microchip,67,805,346,Customer_215,Industrial,China,North America,384,53935,28207
+9677,2023-12-14,1329,Product_1131,Robotics,11,915,226,Customer_116,Automotive,South Korea,Asia-Pacific,585,10065,3630
+903,2023-12-14,1245,Product_1103,Sensor,90,826,262,Customer_30,Industrial,China,Europe,414,74340,37080
+6573,2023-12-14,1452,Product_1249,Microchip,86,722,468,Customer_250,Industrial,South Korea,Europe,676,62092,3956
+4874,2023-12-14,1205,Product_1369,Sensor,56,984,253,Customer_275,Industrial,USA,Europe,765,55104,12264
+4074,2023-12-14,1402,Product_1486,Sensor,50,441,328,Customer_177,Industrial,China,Asia-Pacific,105,22050,16800
+1306,2023-12-14,1387,Product_1051,Microchip,78,944,337,Customer_391,Industrial,Germany,North America,199,73632,58110
+4067,2023-12-14,1402,Product_1412,Microchip,65,745,233,Customer_239,Industrial,South Korea,Asia-Pacific,164,48425,37765
+1477,2023-12-14,1056,Product_1444,Robotics,15,792,405,Customer_38,Consumer Electronics,China,North America,267,11880,7875
+370,2023-12-14,1235,Product_1246,Microchip,50,16,174,Customer_373,Consumer Electronics,China,North America,789,800,-38650
+387,2023-12-14,1359,Product_1135,Microchip,36,642,241,Customer_114,Automotive,Japan,Europe,732,23112,-3240
+8929,2023-12-14,1101,Product_1451,Microchip,24,956,493,Customer_321,Automotive,South Korea,North America,189,22944,18408
+1371,2023-12-14,1089,Product_1111,Robotics,20,836,389,Customer_153,Consumer Electronics,USA,Asia-Pacific,332,16720,10080
+94,2023-12-14,1236,Product_1326,Sensor,85,869,121,Customer_268,Automotive,South Korea,Asia-Pacific,718,73865,12835
+2476,2023-12-14,1443,Product_1456,Robotics,27,158,143,Customer_439,Consumer Electronics,South Korea,Europe,674,4266,-13932
+3885,2023-12-14,1224,Product_1195,Microchip,16,197,350,Customer_393,Consumer Electronics,USA,Asia-Pacific,255,3152,-928
+8826,2023-12-14,1493,Product_1084,Robotics,35,504,130,Customer_18,Automotive,South Korea,Asia-Pacific,473,17640,1085
+2954,2023-12-14,1215,Product_1370,Robotics,81,108,471,Customer_476,Industrial,South Korea,Europe,105,8748,243
+8158,2023-12-14,1050,Product_1382,Robotics,86,147,79,Customer_103,Consumer Electronics,Japan,Europe,68,12642,6794
+5662,2023-12-14,1264,Product_1434,Sensor,56,362,140,Customer_26,Automotive,USA,Asia-Pacific,325,20272,2072
+4297,2023-12-14,1032,Product_1368,Sensor,30,56,27,Customer_14,Automotive,Germany,Europe,238,1680,-5460
+8252,2023-12-14,1251,Product_1478,Microchip,29,513,449,Customer_201,Consumer Electronics,China,Europe,572,14877,-1711
+8909,2023-12-14,1053,Product_1494,Robotics,73,950,257,Customer_161,Consumer Electronics,South Korea,Asia-Pacific,79,69350,63583
+1618,2023-12-14,1238,Product_1129,Sensor,39,341,47,Customer_344,Automotive,USA,Europe,702,13299,-14079
+7646,2023-12-15,1027,Product_1192,Robotics,8,232,389,Customer_331,Automotive,Japan,North America,105,1856,1016
+9605,2023-12-15,1234,Product_1373,Robotics,82,806,253,Customer_398,Consumer Electronics,Germany,Asia-Pacific,90,66092,58712
+3309,2023-12-15,1163,Product_1156,Sensor,8,650,222,Customer_476,Consumer Electronics,China,North America,509,5200,1128
+7820,2023-12-15,1043,Product_1112,Microchip,92,589,402,Customer_305,Industrial,Japan,Asia-Pacific,146,54188,40756
+4466,2023-12-15,1315,Product_1499,Microchip,81,613,478,Customer_344,Industrial,USA,North America,335,49653,22518
+4505,2023-12-15,1203,Product_1358,Microchip,75,724,254,Customer_426,Industrial,USA,Europe,120,54300,45300
+2014,2023-12-15,1351,Product_1122,Robotics,2,704,465,Customer_129,Consumer Electronics,USA,Europe,780,1408,-152
+3887,2023-12-15,1196,Product_1143,Microchip,86,350,465,Customer_352,Industrial,Germany,Europe,791,30100,-37926
+4772,2023-12-15,1427,Product_1264,Robotics,65,850,487,Customer_75,Industrial,Japan,North America,649,55250,13065
+4861,2023-12-15,1373,Product_1239,Sensor,99,913,218,Customer_89,Consumer Electronics,China,Europe,223,90387,68310
+946,2023-12-15,1425,Product_1436,Sensor,85,681,458,Customer_362,Automotive,Germany,Asia-Pacific,538,57885,12155
+4966,2023-12-15,1307,Product_1450,Robotics,83,551,44,Customer_205,Industrial,USA,Asia-Pacific,128,45733,35109
+6336,2023-12-15,1361,Product_1481,Sensor,62,655,479,Customer_161,Consumer Electronics,USA,Europe,220,40610,26970
+5086,2023-12-15,1133,Product_1442,Sensor,17,787,282,Customer_224,Industrial,Japan,Asia-Pacific,357,13379,7310
+5385,2023-12-15,1062,Product_1241,Sensor,73,197,38,Customer_276,Automotive,Japan,Europe,284,14381,-6351
+1348,2023-12-15,1224,Product_1352,Microchip,86,377,474,Customer_226,Consumer Electronics,Germany,Asia-Pacific,761,32422,-33024
+9188,2023-12-15,1175,Product_1029,Microchip,83,33,168,Customer_493,Automotive,USA,Asia-Pacific,685,2739,-54116
+1216,2023-12-15,1064,Product_1466,Microchip,89,58,7,Customer_274,Industrial,Japan,Asia-Pacific,62,5162,-356
+5811,2023-12-15,1237,Product_1359,Sensor,38,112,115,Customer_155,Consumer Electronics,China,Asia-Pacific,335,4256,-8474
+4438,2023-12-15,1434,Product_1051,Sensor,68,922,252,Customer_219,Automotive,South Korea,North America,705,62696,14756
+745,2023-12-15,1251,Product_1227,Microchip,75,368,66,Customer_66,Automotive,China,North America,754,27600,-28950
+242,2023-12-15,1476,Product_1246,Sensor,40,47,76,Customer_1,Industrial,South Korea,Europe,474,1880,-17080
+356,2023-12-15,1351,Product_1254,Sensor,87,28,326,Customer_108,Industrial,South Korea,Europe,220,2436,-16704
+4019,2023-12-15,1356,Product_1010,Microchip,39,562,453,Customer_159,Industrial,China,Europe,408,21918,6006
+2637,2023-12-15,1321,Product_1409,Microchip,67,352,142,Customer_449,Automotive,China,Asia-Pacific,26,23584,21842
+6977,2023-12-15,1349,Product_1409,Robotics,54,170,144,Customer_89,Automotive,South Korea,Asia-Pacific,80,9180,4860
+739,2023-12-15,1120,Product_1068,Sensor,56,17,120,Customer_221,Consumer Electronics,Japan,Asia-Pacific,784,952,-42952
+7792,2023-12-16,1476,Product_1104,Microchip,66,401,282,Customer_143,Industrial,South Korea,Asia-Pacific,368,26466,2178
+3490,2023-12-16,1119,Product_1005,Robotics,55,308,99,Customer_298,Automotive,Germany,North America,377,16940,-3795
+877,2023-12-16,1309,Product_1150,Microchip,67,514,90,Customer_213,Industrial,Japan,Europe,301,34438,14271
+2815,2023-12-16,1219,Product_1227,Sensor,20,801,19,Customer_251,Automotive,USA,North America,284,16020,10340
+3280,2023-12-16,1116,Product_1003,Robotics,58,551,394,Customer_82,Industrial,South Korea,Europe,323,31958,13224
+8573,2023-12-16,1024,Product_1153,Microchip,93,715,144,Customer_351,Consumer Electronics,Germany,Europe,354,66495,33573
+9592,2023-12-16,1046,Product_1116,Sensor,7,862,192,Customer_191,Industrial,Germany,Asia-Pacific,615,6034,1729
+840,2023-12-16,1321,Product_1479,Robotics,73,223,443,Customer_45,Industrial,China,Europe,508,16279,-20805
+7401,2023-12-16,1172,Product_1150,Sensor,61,583,29,Customer_288,Industrial,South Korea,North America,621,35563,-2318
+9051,2023-12-16,1367,Product_1062,Robotics,82,863,269,Customer_401,Industrial,China,Europe,697,70766,13612
+2521,2023-12-16,1318,Product_1291,Robotics,87,481,425,Customer_476,Automotive,Germany,North America,315,41847,14442
+3473,2023-12-16,1135,Product_1377,Robotics,55,53,14,Customer_218,Consumer Electronics,South Korea,Europe,406,2915,-19415
+4508,2023-12-16,1438,Product_1179,Microchip,35,935,108,Customer_377,Consumer Electronics,Japan,Europe,290,32725,22575
+3571,2023-12-16,1217,Product_1120,Sensor,56,913,306,Customer_414,Industrial,Germany,North America,299,51128,34384
+7144,2023-12-16,1180,Product_1097,Sensor,81,619,197,Customer_452,Industrial,Japan,Asia-Pacific,791,50139,-13932
+2401,2023-12-16,1431,Product_1443,Robotics,39,630,353,Customer_385,Automotive,USA,North America,289,24570,13299
+2116,2023-12-16,1221,Product_1024,Sensor,25,29,327,Customer_253,Industrial,USA,North America,398,725,-9225
+799,2023-12-16,1083,Product_1454,Sensor,33,354,42,Customer_327,Automotive,South Korea,Europe,646,11682,-9636
+2061,2023-12-16,1278,Product_1407,Robotics,46,728,493,Customer_21,Automotive,USA,North America,716,33488,552
+9082,2023-12-16,1436,Product_1044,Microchip,42,301,395,Customer_266,Consumer Electronics,China,Asia-Pacific,664,12642,-15246
+5330,2023-12-16,1053,Product_1183,Sensor,28,797,162,Customer_321,Automotive,Japan,Asia-Pacific,360,22316,12236
+1637,2023-12-17,1356,Product_1288,Sensor,93,775,37,Customer_302,Consumer Electronics,South Korea,Europe,786,72075,-1023
+9225,2023-12-17,1262,Product_1335,Microchip,78,999,383,Customer_398,Automotive,China,Europe,8,77922,77298
+3184,2023-12-17,1355,Product_1056,Microchip,65,649,56,Customer_215,Industrial,South Korea,North America,5,42185,41860
+8609,2023-12-17,1455,Product_1237,Sensor,97,728,80,Customer_372,Industrial,China,Asia-Pacific,736,70616,-776
+5446,2023-12-17,1161,Product_1222,Microchip,58,140,153,Customer_357,Industrial,China,Europe,606,8120,-27028
+3408,2023-12-17,1235,Product_1156,Robotics,96,827,380,Customer_154,Consumer Electronics,South Korea,Europe,391,79392,41856
+6350,2023-12-17,1014,Product_1133,Microchip,63,959,365,Customer_143,Automotive,Germany,Asia-Pacific,23,60417,58968
+7953,2023-12-17,1113,Product_1197,Microchip,42,858,148,Customer_183,Industrial,Germany,North America,628,36036,9660
+1807,2023-12-17,1430,Product_1476,Microchip,66,640,290,Customer_327,Consumer Electronics,Germany,Europe,778,42240,-9108
+1251,2023-12-17,1013,Product_1109,Microchip,93,325,211,Customer_2,Consumer Electronics,Germany,Europe,328,30225,-279
+4657,2023-12-17,1301,Product_1182,Robotics,23,464,385,Customer_297,Industrial,South Korea,Asia-Pacific,224,10672,5520
+2435,2023-12-17,1493,Product_1426,Microchip,62,750,24,Customer_471,Automotive,South Korea,Asia-Pacific,21,46500,45198
+9397,2023-12-17,1077,Product_1206,Robotics,59,942,455,Customer_307,Industrial,Germany,Asia-Pacific,446,55578,29264
+3606,2023-12-17,1443,Product_1427,Sensor,1,752,146,Customer_455,Automotive,China,Asia-Pacific,244,752,508
+9375,2023-12-17,1031,Product_1250,Sensor,48,990,6,Customer_426,Industrial,South Korea,North America,530,47520,22080
+2483,2023-12-17,1384,Product_1083,Robotics,88,300,49,Customer_236,Consumer Electronics,Germany,Europe,791,26400,-43208
+9301,2023-12-17,1149,Product_1056,Microchip,74,747,151,Customer_372,Industrial,Japan,Asia-Pacific,161,55278,43364
+3845,2023-12-17,1183,Product_1317,Microchip,76,678,240,Customer_452,Consumer Electronics,Japan,Europe,320,51528,27208
+2909,2023-12-17,1298,Product_1052,Robotics,79,421,430,Customer_461,Industrial,Germany,Asia-Pacific,236,33259,14615
+3514,2023-12-17,1245,Product_1250,Microchip,54,731,362,Customer_196,Industrial,Germany,Asia-Pacific,510,39474,11934
+4577,2023-12-17,1329,Product_1477,Sensor,22,940,242,Customer_77,Automotive,Germany,Asia-Pacific,122,20680,17996
+6944,2023-12-17,1118,Product_1167,Sensor,74,540,172,Customer_164,Automotive,South Korea,Europe,474,39960,4884
+7336,2023-12-17,1181,Product_1142,Robotics,65,857,399,Customer_175,Industrial,South Korea,Asia-Pacific,163,55705,45110
+8747,2023-12-17,1445,Product_1402,Sensor,62,479,230,Customer_379,Industrial,China,Europe,124,29698,22010
+1065,2023-12-17,1412,Product_1363,Robotics,52,66,211,Customer_115,Industrial,Japan,Europe,413,3432,-18044
+2877,2023-12-17,1315,Product_1209,Robotics,70,556,41,Customer_317,Industrial,South Korea,Asia-Pacific,718,38920,-11340
+3904,2023-12-18,1178,Product_1158,Microchip,22,340,223,Customer_489,Industrial,South Korea,North America,375,7480,-770
+4170,2023-12-18,1135,Product_1361,Microchip,15,744,15,Customer_63,Automotive,China,North America,133,11160,9165
+400,2023-12-18,1002,Product_1270,Sensor,18,950,112,Customer_108,Industrial,Japan,North America,409,17100,9738
+6345,2023-12-18,1124,Product_1356,Microchip,62,705,237,Customer_366,Consumer Electronics,Japan,Europe,548,43710,9734
+6378,2023-12-18,1315,Product_1286,Robotics,51,978,156,Customer_464,Consumer Electronics,USA,Europe,265,49878,36363
+6422,2023-12-18,1079,Product_1217,Sensor,1,472,484,Customer_54,Industrial,USA,North America,586,472,-114
+6475,2023-12-18,1153,Product_1008,Microchip,31,273,393,Customer_109,Industrial,Japan,North America,452,8463,-5549
+4775,2023-12-18,1476,Product_1411,Robotics,17,456,134,Customer_258,Consumer Electronics,Germany,North America,505,7752,-833
+238,2023-12-18,1318,Product_1335,Sensor,83,965,64,Customer_334,Automotive,China,Europe,260,80095,58515
+4557,2023-12-18,1377,Product_1446,Microchip,75,978,207,Customer_142,Automotive,Japan,Europe,444,73350,40050
+4553,2023-12-18,1454,Product_1365,Microchip,24,572,337,Customer_418,Consumer Electronics,Germany,Asia-Pacific,49,13728,12552
+3779,2023-12-18,1339,Product_1237,Sensor,20,420,109,Customer_58,Automotive,Germany,North America,486,8400,-1320
+9583,2023-12-18,1292,Product_1307,Robotics,24,642,238,Customer_495,Industrial,USA,Asia-Pacific,162,15408,11520
+6750,2023-12-18,1324,Product_1212,Microchip,68,744,186,Customer_149,Consumer Electronics,Japan,North America,592,50592,10336
+4215,2023-12-18,1124,Product_1180,Microchip,27,480,67,Customer_482,Consumer Electronics,China,Europe,202,12960,7506
+527,2023-12-18,1078,Product_1492,Robotics,52,299,5,Customer_493,Industrial,South Korea,North America,392,15548,-4836
+6709,2023-12-18,1218,Product_1243,Robotics,2,652,112,Customer_167,Consumer Electronics,Japan,North America,278,1304,748
+2735,2023-12-18,1465,Product_1109,Microchip,27,113,442,Customer_411,Automotive,Japan,Europe,417,3051,-8208
+8716,2023-12-18,1388,Product_1063,Sensor,50,196,46,Customer_255,Automotive,Germany,Asia-Pacific,483,9800,-14350
+9480,2023-12-18,1375,Product_1331,Sensor,54,183,397,Customer_75,Industrial,China,Europe,79,9882,5616
+7872,2023-12-18,1216,Product_1357,Sensor,89,612,178,Customer_414,Industrial,USA,Europe,729,54468,-10413
+8880,2023-12-18,1107,Product_1160,Sensor,99,327,498,Customer_284,Industrial,China,Europe,78,32373,24651
+2387,2023-12-18,1170,Product_1351,Robotics,22,387,320,Customer_95,Consumer Electronics,South Korea,Asia-Pacific,7,8514,8360
+3131,2023-12-18,1369,Product_1419,Microchip,63,467,33,Customer_337,Consumer Electronics,China,Asia-Pacific,496,29421,-1827
+1510,2023-12-18,1257,Product_1172,Robotics,5,657,370,Customer_235,Industrial,Germany,Asia-Pacific,595,3285,310
+2542,2023-12-18,1400,Product_1422,Microchip,73,274,486,Customer_228,Consumer Electronics,South Korea,Asia-Pacific,567,20002,-21389
+9016,2023-12-18,1209,Product_1396,Robotics,47,103,385,Customer_249,Automotive,Germany,North America,183,4841,-3760
+8831,2023-12-18,1192,Product_1068,Robotics,77,647,234,Customer_304,Automotive,Japan,Asia-Pacific,545,49819,7854
+8296,2023-12-18,1217,Product_1327,Robotics,85,293,398,Customer_342,Consumer Electronics,South Korea,North America,212,24905,6885
+1973,2023-12-19,1112,Product_1177,Robotics,31,482,445,Customer_158,Consumer Electronics,USA,North America,316,14942,5146
+1650,2023-12-19,1287,Product_1355,Microchip,14,943,464,Customer_483,Consumer Electronics,South Korea,North America,322,13202,8694
+616,2023-12-19,1115,Product_1487,Microchip,75,685,451,Customer_98,Automotive,China,Europe,770,51375,-6375
+4905,2023-12-19,1313,Product_1390,Microchip,44,121,5,Customer_466,Automotive,Japan,Asia-Pacific,749,5324,-27632
+6379,2023-12-19,1115,Product_1005,Sensor,1,472,242,Customer_43,Automotive,USA,North America,198,472,274
+257,2023-12-19,1395,Product_1068,Microchip,66,553,73,Customer_338,Industrial,Germany,North America,609,36498,-3696
+1647,2023-12-19,1450,Product_1324,Robotics,47,682,232,Customer_183,Automotive,Japan,North America,308,32054,17578
+4935,2023-12-19,1162,Product_1434,Sensor,9,253,300,Customer_301,Industrial,China,Asia-Pacific,60,2277,1737
+8410,2023-12-19,1370,Product_1427,Sensor,48,187,16,Customer_173,Industrial,Japan,Europe,577,8976,-18720
+8690,2023-12-19,1375,Product_1207,Sensor,53,677,393,Customer_164,Industrial,South Korea,Europe,579,35881,5194
+6936,2023-12-19,1341,Product_1169,Sensor,76,830,419,Customer_328,Consumer Electronics,South Korea,Asia-Pacific,503,63080,24852
+2547,2023-12-19,1494,Product_1114,Sensor,10,907,431,Customer_394,Industrial,China,North America,567,9070,3400
+7761,2023-12-19,1027,Product_1032,Sensor,25,942,131,Customer_380,Automotive,USA,Europe,188,23550,18850
+30,2023-12-19,1296,Product_1094,Robotics,18,610,364,Customer_284,Industrial,South Korea,Europe,601,10980,162
+6762,2023-12-19,1187,Product_1286,Microchip,10,38,131,Customer_2,Consumer Electronics,Japan,Asia-Pacific,348,380,-3100
+5002,2023-12-19,1163,Product_1242,Sensor,60,72,267,Customer_152,Automotive,Japan,North America,511,4320,-26340
+8263,2023-12-19,1398,Product_1374,Sensor,12,543,319,Customer_381,Consumer Electronics,South Korea,Asia-Pacific,573,6516,-360
+774,2023-12-19,1217,Product_1266,Robotics,80,367,55,Customer_398,Consumer Electronics,Japan,Europe,576,29360,-16720
+5306,2023-12-19,1281,Product_1151,Microchip,13,178,167,Customer_225,Industrial,Germany,Europe,494,2314,-4108
+7870,2023-12-19,1483,Product_1308,Sensor,77,147,398,Customer_289,Industrial,Germany,Europe,627,11319,-36960
+9683,2023-12-19,1489,Product_1472,Robotics,39,592,223,Customer_18,Consumer Electronics,China,Asia-Pacific,520,23088,2808
+324,2023-12-19,1460,Product_1121,Sensor,26,629,345,Customer_450,Industrial,USA,Europe,795,16354,-4316
+4282,2023-12-19,1131,Product_1045,Robotics,98,203,351,Customer_485,Consumer Electronics,Germany,Europe,681,19894,-46844
+6203,2023-12-19,1435,Product_1282,Robotics,4,655,172,Customer_122,Automotive,China,Europe,118,2620,2148
+1614,2023-12-19,1269,Product_1074,Microchip,19,305,430,Customer_29,Industrial,USA,Europe,769,5795,-8816
+7624,2023-12-19,1120,Product_1352,Sensor,12,829,485,Customer_247,Automotive,USA,North America,618,9948,2532
+1615,2023-12-19,1154,Product_1136,Robotics,78,320,142,Customer_477,Automotive,South Korea,Asia-Pacific,729,24960,-31902
+8557,2023-12-19,1413,Product_1112,Sensor,70,804,311,Customer_84,Consumer Electronics,South Korea,Europe,518,56280,20020
+3161,2023-12-19,1351,Product_1175,Robotics,25,631,27,Customer_101,Automotive,Japan,Asia-Pacific,277,15775,8850
+4878,2023-12-19,1014,Product_1469,Robotics,25,621,143,Customer_445,Automotive,South Korea,Europe,210,15525,10275
+1909,2023-12-19,1494,Product_1158,Robotics,8,225,139,Customer_360,Automotive,Japan,Asia-Pacific,489,1800,-2112
+9492,2023-12-20,1477,Product_1113,Robotics,10,934,444,Customer_13,Industrial,USA,North America,567,9340,3670
+5450,2023-12-20,1392,Product_1109,Microchip,50,826,203,Customer_23,Consumer Electronics,Germany,Asia-Pacific,6,41300,41000
+9649,2023-12-20,1013,Product_1130,Microchip,99,840,37,Customer_190,Industrial,Japan,Europe,695,83160,14355
+161,2023-12-20,1258,Product_1138,Sensor,60,373,129,Customer_112,Industrial,Japan,North America,533,22380,-9600
+6169,2023-12-20,1272,Product_1327,Microchip,12,884,321,Customer_415,Consumer Electronics,Japan,North America,550,10608,4008
+1418,2023-12-20,1241,Product_1453,Sensor,5,163,428,Customer_424,Industrial,South Korea,North America,528,815,-1825
+792,2023-12-20,1287,Product_1279,Microchip,10,450,178,Customer_392,Industrial,USA,North America,133,4500,3170
+2881,2023-12-20,1346,Product_1263,Robotics,2,765,356,Customer_144,Automotive,South Korea,North America,552,1530,426
+4969,2023-12-20,1461,Product_1435,Sensor,58,664,372,Customer_338,Automotive,USA,Europe,684,38512,-1160
+9559,2023-12-20,1017,Product_1153,Microchip,59,992,56,Customer_227,Industrial,South Korea,Asia-Pacific,344,58528,38232
+1182,2023-12-20,1261,Product_1247,Microchip,48,413,244,Customer_402,Consumer Electronics,South Korea,Europe,672,19824,-12432
+8547,2023-12-20,1211,Product_1174,Sensor,83,551,78,Customer_102,Consumer Electronics,Japan,North America,243,45733,25564
+5011,2023-12-20,1082,Product_1440,Microchip,40,68,244,Customer_483,Consumer Electronics,Japan,North America,503,2720,-17400
+6749,2023-12-20,1047,Product_1034,Microchip,11,836,64,Customer_499,Industrial,China,Europe,557,9196,3069
+8087,2023-12-20,1012,Product_1122,Microchip,64,860,51,Customer_111,Industrial,Germany,Asia-Pacific,82,55040,49792
+4418,2023-12-20,1016,Product_1159,Robotics,39,721,207,Customer_347,Industrial,China,Europe,740,28119,-741
+986,2023-12-20,1173,Product_1056,Sensor,89,38,312,Customer_47,Industrial,Japan,Asia-Pacific,648,3382,-54290
+5696,2023-12-20,1138,Product_1152,Sensor,99,529,495,Customer_153,Consumer Electronics,USA,Asia-Pacific,764,52371,-23265
+6930,2023-12-20,1493,Product_1137,Sensor,49,627,246,Customer_80,Consumer Electronics,Germany,North America,520,30723,5243
+4545,2023-12-20,1477,Product_1099,Microchip,55,268,496,Customer_435,Industrial,China,Europe,48,14740,12100
+4881,2023-12-20,1430,Product_1322,Sensor,94,586,82,Customer_105,Automotive,Germany,Asia-Pacific,21,55084,53110
+4865,2023-12-20,1226,Product_1185,Microchip,40,713,496,Customer_250,Automotive,South Korea,North America,487,28520,9040
+3590,2023-12-21,1322,Product_1053,Robotics,57,114,162,Customer_380,Automotive,USA,North America,75,6498,2223
+8738,2023-12-21,1455,Product_1142,Microchip,30,593,277,Customer_360,Automotive,Germany,North America,401,17790,5760
+9177,2023-12-21,1394,Product_1320,Microchip,37,403,459,Customer_346,Consumer Electronics,China,North America,161,14911,8954
+960,2023-12-21,1144,Product_1109,Microchip,90,875,238,Customer_89,Industrial,South Korea,Asia-Pacific,678,78750,17730
+9547,2023-12-21,1158,Product_1321,Sensor,63,12,110,Customer_395,Industrial,South Korea,Asia-Pacific,21,756,-567
+5668,2023-12-21,1264,Product_1261,Sensor,65,509,127,Customer_302,Industrial,Germany,North America,115,33085,25610
+5308,2023-12-21,1001,Product_1219,Sensor,64,787,349,Customer_215,Industrial,Germany,Europe,21,50368,49024
+6303,2023-12-21,1061,Product_1268,Sensor,9,124,187,Customer_60,Consumer Electronics,South Korea,North America,171,1116,-423
+6857,2023-12-21,1302,Product_1262,Sensor,34,838,216,Customer_447,Consumer Electronics,China,Europe,222,28492,20944
+6275,2023-12-21,1275,Product_1188,Microchip,7,289,439,Customer_95,Automotive,South Korea,North America,431,2023,-994
+9116,2023-12-21,1468,Product_1227,Microchip,99,84,275,Customer_1,Automotive,USA,Europe,409,8316,-32175
+6820,2023-12-21,1480,Product_1445,Robotics,64,112,157,Customer_334,Consumer Electronics,China,Europe,607,7168,-31680
+5084,2023-12-21,1396,Product_1480,Microchip,37,831,285,Customer_10,Automotive,China,Asia-Pacific,366,30747,17205
+192,2023-12-21,1261,Product_1411,Sensor,21,137,305,Customer_415,Consumer Electronics,USA,North America,479,2877,-7182
+4293,2023-12-21,1456,Product_1021,Robotics,44,316,243,Customer_229,Consumer Electronics,Germany,Europe,280,13904,1584
+4288,2023-12-21,1221,Product_1459,Robotics,66,289,179,Customer_175,Industrial,South Korea,Asia-Pacific,469,19074,-11880
+7512,2023-12-21,1439,Product_1077,Microchip,56,779,387,Customer_23,Industrial,South Korea,North America,702,43624,4312
+8558,2023-12-21,1469,Product_1164,Microchip,25,376,156,Customer_58,Industrial,USA,Asia-Pacific,538,9400,-4050
+8661,2023-12-21,1040,Product_1297,Sensor,53,674,37,Customer_435,Automotive,USA,Asia-Pacific,394,35722,14840
+9692,2023-12-21,1272,Product_1428,Robotics,54,837,469,Customer_426,Consumer Electronics,USA,North America,764,45198,3942
+869,2023-12-21,1323,Product_1486,Microchip,55,995,424,Customer_302,Automotive,Japan,Asia-Pacific,166,54725,45595
+9989,2023-12-21,1251,Product_1061,Sensor,6,683,175,Customer_54,Industrial,China,North America,61,4098,3732
+7410,2023-12-21,1457,Product_1218,Sensor,26,259,334,Customer_63,Industrial,Japan,Europe,639,6734,-9880
+7493,2023-12-21,1171,Product_1272,Sensor,47,133,494,Customer_352,Consumer Electronics,Germany,Europe,612,6251,-22513
+9452,2023-12-21,1321,Product_1230,Microchip,60,818,241,Customer_412,Industrial,Germany,North America,63,49080,45300
+1519,2023-12-21,1087,Product_1056,Microchip,64,751,53,Customer_452,Consumer Electronics,USA,Europe,626,48064,8000
+5618,2023-12-21,1012,Product_1139,Robotics,43,408,111,Customer_34,Automotive,Japan,North America,561,17544,-6579
+3959,2023-12-21,1346,Product_1412,Microchip,89,897,189,Customer_190,Automotive,China,Asia-Pacific,563,79833,29726
+7468,2023-12-21,1015,Product_1325,Sensor,34,29,403,Customer_169,Industrial,China,Asia-Pacific,164,986,-4590
+5351,2023-12-21,1173,Product_1356,Robotics,40,583,432,Customer_226,Industrial,Germany,Europe,262,23320,12840
+3430,2023-12-21,1332,Product_1273,Robotics,92,661,450,Customer_250,Automotive,USA,North America,323,60812,31096
+7274,2023-12-21,1214,Product_1377,Robotics,82,435,226,Customer_380,Consumer Electronics,Germany,Asia-Pacific,592,35670,-12874
+9064,2023-12-21,1226,Product_1393,Robotics,50,954,24,Customer_433,Automotive,Japan,Asia-Pacific,569,47700,19250
+9532,2023-12-21,1362,Product_1207,Sensor,96,799,159,Customer_219,Automotive,Germany,North America,229,76704,54720
+6519,2023-12-21,1302,Product_1428,Microchip,34,560,101,Customer_146,Automotive,South Korea,Europe,705,19040,-4930
+8104,2023-12-21,1066,Product_1045,Robotics,96,443,254,Customer_65,Industrial,South Korea,Europe,77,42528,35136
+4838,2023-12-22,1478,Product_1176,Sensor,91,685,285,Customer_10,Industrial,USA,Asia-Pacific,239,62335,40586
+2459,2023-12-22,1053,Product_1051,Sensor,64,735,147,Customer_160,Industrial,Japan,Europe,146,47040,37696
+8821,2023-12-22,1277,Product_1141,Robotics,19,975,427,Customer_400,Automotive,Japan,Asia-Pacific,429,18525,10374
+1110,2023-12-22,1359,Product_1441,Microchip,6,540,364,Customer_226,Consumer Electronics,Japan,North America,377,3240,978
+9152,2023-12-22,1036,Product_1108,Sensor,18,664,276,Customer_96,Consumer Electronics,Germany,North America,230,11952,7812
+9850,2023-12-22,1018,Product_1427,Microchip,61,295,404,Customer_4,Industrial,Germany,North America,291,17995,244
+4003,2023-12-22,1477,Product_1175,Robotics,24,738,87,Customer_58,Automotive,Germany,Europe,562,17712,4224
+4156,2023-12-22,1343,Product_1157,Sensor,77,294,453,Customer_215,Industrial,China,North America,37,22638,19789
+9736,2023-12-22,1113,Product_1497,Microchip,74,649,72,Customer_3,Industrial,USA,North America,768,48026,-8806
+9982,2023-12-22,1167,Product_1059,Sensor,59,730,457,Customer_120,Consumer Electronics,South Korea,North America,11,43070,42421
+1751,2023-12-22,1005,Product_1082,Sensor,87,125,427,Customer_206,Automotive,China,Europe,614,10875,-42543
+6252,2023-12-22,1477,Product_1072,Microchip,4,989,28,Customer_57,Consumer Electronics,USA,Asia-Pacific,375,3956,2456
+4757,2023-12-22,1273,Product_1070,Robotics,74,389,201,Customer_155,Consumer Electronics,Germany,North America,557,28786,-12432
+6330,2023-12-22,1070,Product_1283,Robotics,29,141,376,Customer_23,Consumer Electronics,South Korea,Europe,592,4089,-13079
+4899,2023-12-22,1084,Product_1405,Microchip,77,758,354,Customer_308,Consumer Electronics,South Korea,North America,647,58366,8547
+9193,2023-12-22,1210,Product_1004,Robotics,65,824,36,Customer_195,Consumer Electronics,Germany,Europe,86,53560,47970
+1907,2023-12-22,1445,Product_1241,Microchip,15,242,44,Customer_196,Automotive,Germany,North America,276,3630,-510
+5489,2023-12-22,1241,Product_1340,Sensor,30,72,361,Customer_38,Automotive,China,Asia-Pacific,498,2160,-12780
+5599,2023-12-22,1438,Product_1319,Microchip,31,669,482,Customer_487,Industrial,China,Europe,565,20739,3224
+849,2023-12-23,1137,Product_1264,Robotics,56,513,29,Customer_79,Consumer Electronics,South Korea,Asia-Pacific,252,28728,14616
+1969,2023-12-23,1412,Product_1011,Robotics,54,962,259,Customer_20,Automotive,Germany,Europe,196,51948,41364
+1946,2023-12-23,1203,Product_1074,Microchip,4,721,489,Customer_72,Automotive,Germany,North America,309,2884,1648
+1920,2023-12-23,1025,Product_1357,Robotics,1,95,149,Customer_406,Industrial,South Korea,Asia-Pacific,161,95,-66
+8812,2023-12-23,1128,Product_1275,Robotics,75,600,357,Customer_496,Consumer Electronics,Germany,Europe,495,45000,7875
+8425,2023-12-23,1250,Product_1161,Robotics,96,496,69,Customer_257,Industrial,USA,North America,325,47616,16416
+2384,2023-12-23,1270,Product_1486,Sensor,79,911,79,Customer_256,Consumer Electronics,South Korea,North America,377,71969,42186
+1531,2023-12-23,1185,Product_1449,Microchip,35,105,253,Customer_81,Consumer Electronics,South Korea,Asia-Pacific,333,3675,-7980
+4422,2023-12-23,1243,Product_1265,Robotics,59,108,372,Customer_430,Automotive,Germany,Europe,11,6372,5723
+1890,2023-12-23,1400,Product_1121,Microchip,67,927,371,Customer_388,Consumer Electronics,Germany,Europe,131,62109,53332
+9777,2023-12-23,1317,Product_1044,Sensor,60,132,257,Customer_334,Industrial,China,North America,96,7920,2160
+296,2023-12-23,1418,Product_1218,Robotics,79,468,77,Customer_476,Consumer Electronics,USA,Asia-Pacific,46,36972,33338
+4205,2023-12-23,1360,Product_1456,Robotics,27,966,490,Customer_420,Automotive,South Korea,North America,258,26082,19116
+8774,2023-12-23,1342,Product_1355,Sensor,21,348,329,Customer_409,Industrial,USA,North America,540,7308,-4032
+4851,2023-12-23,1355,Product_1387,Sensor,82,261,439,Customer_236,Industrial,Germany,Asia-Pacific,293,21402,-2624
+9795,2023-12-23,1410,Product_1416,Robotics,75,987,400,Customer_100,Industrial,Germany,Europe,610,74025,28275
+9580,2023-12-23,1100,Product_1207,Sensor,69,363,476,Customer_417,Automotive,South Korea,Asia-Pacific,566,25047,-14007
+8641,2023-12-23,1254,Product_1032,Robotics,48,391,492,Customer_216,Consumer Electronics,Germany,North America,485,18768,-4512
+1428,2023-12-23,1331,Product_1372,Microchip,82,27,361,Customer_353,Industrial,South Korea,North America,760,2214,-60106
+5341,2023-12-23,1182,Product_1390,Microchip,70,347,202,Customer_431,Automotive,USA,North America,390,24290,-3010
+420,2023-12-23,1010,Product_1108,Microchip,45,194,124,Customer_486,Consumer Electronics,Japan,North America,458,8730,-11880
+7225,2023-12-23,1326,Product_1419,Sensor,36,151,344,Customer_114,Automotive,Germany,North America,614,5436,-16668
+6210,2023-12-23,1434,Product_1274,Robotics,95,120,240,Customer_204,Automotive,South Korea,Europe,301,11400,-17195
+414,2023-12-23,1135,Product_1342,Robotics,11,689,430,Customer_142,Automotive,Japan,Europe,339,7579,3850
+8897,2023-12-23,1252,Product_1463,Sensor,80,692,98,Customer_243,Industrial,Japan,Asia-Pacific,519,55360,13840
+7100,2023-12-23,1176,Product_1495,Microchip,28,162,380,Customer_54,Automotive,Germany,North America,207,4536,-1260
+3048,2023-12-23,1103,Product_1268,Microchip,4,883,63,Customer_406,Consumer Electronics,South Korea,Asia-Pacific,507,3532,1504
+7876,2023-12-23,1364,Product_1083,Robotics,86,817,144,Customer_175,Consumer Electronics,China,Asia-Pacific,433,70262,33024
+7648,2023-12-23,1420,Product_1300,Microchip,24,538,423,Customer_120,Automotive,USA,North America,346,12912,4608
+9975,2023-12-23,1343,Product_1014,Robotics,58,705,65,Customer_260,Automotive,USA,Asia-Pacific,298,40890,23606
+7925,2023-12-23,1108,Product_1084,Microchip,75,410,46,Customer_216,Industrial,USA,Europe,715,30750,-22875
+9620,2023-12-23,1071,Product_1459,Microchip,67,983,197,Customer_86,Automotive,Japan,North America,17,65861,64722
+9548,2023-12-23,1353,Product_1065,Robotics,93,121,5,Customer_385,Consumer Electronics,USA,Asia-Pacific,319,11253,-18414
+5871,2023-12-23,1430,Product_1099,Microchip,55,684,154,Customer_130,Automotive,USA,Europe,561,37620,6765
+1152,2023-12-23,1356,Product_1041,Microchip,97,184,110,Customer_186,Automotive,South Korea,North America,290,17848,-10282
+8028,2023-12-23,1492,Product_1108,Sensor,79,913,321,Customer_237,Industrial,China,Europe,587,72127,25754
+2650,2023-12-23,1461,Product_1021,Robotics,86,474,123,Customer_363,Automotive,South Korea,Asia-Pacific,450,40764,2064
+5205,2023-12-23,1190,Product_1373,Sensor,4,648,476,Customer_164,Consumer Electronics,Japan,North America,559,2592,356
+9455,2023-12-23,1274,Product_1238,Microchip,57,101,68,Customer_302,Automotive,Japan,Europe,226,5757,-7125
+7553,2023-12-23,1454,Product_1030,Robotics,65,848,326,Customer_423,Automotive,Japan,Europe,438,55120,26650
+7416,2023-12-23,1395,Product_1407,Microchip,52,957,64,Customer_344,Automotive,Japan,Europe,483,49764,24648
+7767,2023-12-23,1244,Product_1274,Robotics,81,570,233,Customer_109,Automotive,China,North America,418,46170,12312
+3436,2023-12-23,1244,Product_1003,Sensor,84,438,300,Customer_435,Automotive,South Korea,Europe,474,36792,-3024
+8681,2023-12-24,1249,Product_1215,Sensor,33,821,236,Customer_173,Automotive,Japan,Asia-Pacific,664,27093,5181
+9830,2023-12-24,1114,Product_1430,Microchip,25,156,161,Customer_4,Consumer Electronics,Japan,Europe,95,3900,1525
+7179,2023-12-24,1277,Product_1224,Sensor,84,662,43,Customer_60,Consumer Electronics,USA,Europe,723,55608,-5124
+9585,2023-12-24,1497,Product_1133,Robotics,94,334,187,Customer_215,Consumer Electronics,China,North America,203,31396,12314
+4429,2023-12-24,1137,Product_1080,Robotics,37,877,492,Customer_402,Consumer Electronics,China,North America,20,32449,31709
+7581,2023-12-24,1424,Product_1394,Microchip,5,31,427,Customer_146,Industrial,Germany,Europe,622,155,-2955
+8597,2023-12-24,1446,Product_1181,Sensor,20,15,136,Customer_28,Consumer Electronics,Japan,Asia-Pacific,584,300,-11380
+6417,2023-12-24,1315,Product_1043,Sensor,7,514,413,Customer_78,Consumer Electronics,Germany,Asia-Pacific,270,3598,1708
+6703,2023-12-24,1069,Product_1185,Microchip,78,20,337,Customer_413,Automotive,China,Asia-Pacific,222,1560,-15756
+929,2023-12-24,1191,Product_1286,Sensor,99,172,64,Customer_287,Automotive,China,Asia-Pacific,276,17028,-10296
+5578,2023-12-24,1256,Product_1326,Sensor,54,142,58,Customer_491,Consumer Electronics,South Korea,Asia-Pacific,351,7668,-11286
+3222,2023-12-24,1222,Product_1151,Microchip,12,609,489,Customer_138,Consumer Electronics,China,Europe,440,7308,2028
+3021,2023-12-24,1132,Product_1031,Robotics,97,724,42,Customer_254,Industrial,USA,Asia-Pacific,256,70228,45396
+1224,2023-12-24,1185,Product_1345,Sensor,32,885,447,Customer_395,Industrial,Japan,Europe,89,28320,25472
+9636,2023-12-24,1282,Product_1440,Robotics,26,772,425,Customer_372,Automotive,Japan,North America,323,20072,11674
+9035,2023-12-24,1104,Product_1308,Microchip,6,242,295,Customer_183,Industrial,Germany,North America,521,1452,-1674
+3828,2023-12-24,1099,Product_1434,Microchip,91,977,189,Customer_90,Consumer Electronics,Japan,Asia-Pacific,234,88907,67613
+3570,2023-12-24,1189,Product_1419,Robotics,57,24,378,Customer_207,Automotive,Japan,Asia-Pacific,765,1368,-42237
+7405,2023-12-24,1454,Product_1402,Robotics,16,835,354,Customer_232,Automotive,Germany,Europe,188,13360,10352
+9606,2023-12-24,1239,Product_1013,Robotics,45,238,294,Customer_124,Industrial,Japan,North America,784,10710,-24570
+3461,2023-12-24,1364,Product_1480,Microchip,46,276,87,Customer_338,Consumer Electronics,Germany,North America,197,12696,3634
+6211,2023-12-24,1149,Product_1434,Sensor,58,18,446,Customer_83,Consumer Electronics,Japan,Asia-Pacific,570,1044,-32016
+7903,2023-12-24,1135,Product_1063,Sensor,63,158,231,Customer_168,Automotive,China,Asia-Pacific,464,9954,-19278
+9249,2023-12-24,1206,Product_1469,Microchip,53,481,77,Customer_184,Industrial,China,North America,574,25493,-4929
+3924,2023-12-24,1172,Product_1017,Microchip,20,953,409,Customer_461,Industrial,Japan,North America,55,19060,17960
+124,2023-12-24,1015,Product_1385,Robotics,97,297,314,Customer_301,Consumer Electronics,USA,North America,19,28809,26966
+6133,2023-12-24,1365,Product_1414,Sensor,23,842,316,Customer_351,Industrial,China,Asia-Pacific,219,19366,14329
+1476,2023-12-24,1041,Product_1363,Sensor,63,433,375,Customer_458,Industrial,USA,Asia-Pacific,279,27279,9702
+345,2023-12-24,1198,Product_1039,Sensor,24,774,17,Customer_211,Industrial,Japan,North America,377,18576,9528
+6789,2023-12-24,1133,Product_1345,Robotics,36,312,170,Customer_13,Industrial,USA,Europe,358,11232,-1656
+5206,2023-12-24,1197,Product_1159,Robotics,20,359,208,Customer_374,Consumer Electronics,South Korea,North America,47,7180,6240
+6306,2023-12-24,1425,Product_1306,Robotics,83,235,314,Customer_299,Industrial,Germany,Asia-Pacific,738,19505,-41749
+8865,2023-12-24,1126,Product_1072,Sensor,8,389,379,Customer_131,Consumer Electronics,South Korea,North America,408,3112,-152
+966,2023-12-24,1060,Product_1137,Sensor,10,271,348,Customer_11,Consumer Electronics,China,Asia-Pacific,538,2710,-2670
+675,2023-12-24,1192,Product_1361,Robotics,15,742,198,Customer_493,Industrial,South Korea,North America,432,11130,4650
+6228,2023-12-24,1370,Product_1277,Microchip,89,211,127,Customer_381,Consumer Electronics,China,Europe,592,18779,-33909
+7008,2023-12-24,1194,Product_1243,Robotics,66,991,399,Customer_469,Automotive,South Korea,Europe,448,65406,35838
+1434,2023-12-24,1152,Product_1301,Microchip,16,111,354,Customer_413,Automotive,South Korea,Asia-Pacific,368,1776,-4112
+4807,2023-12-25,1400,Product_1399,Sensor,18,140,259,Customer_240,Automotive,China,Asia-Pacific,292,2520,-2736
+6993,2023-12-25,1125,Product_1434,Sensor,76,528,299,Customer_427,Industrial,USA,North America,416,40128,8512
+7878,2023-12-25,1297,Product_1269,Sensor,97,530,263,Customer_462,Industrial,Germany,North America,724,51410,-18818
+2007,2023-12-25,1248,Product_1397,Robotics,7,376,373,Customer_58,Industrial,Germany,Asia-Pacific,449,2632,-511
+9346,2023-12-25,1243,Product_1017,Robotics,6,552,258,Customer_356,Consumer Electronics,USA,Europe,409,3312,858
+9496,2023-12-25,1120,Product_1243,Sensor,6,579,235,Customer_80,Automotive,USA,North America,552,3474,162
+1535,2023-12-25,1380,Product_1482,Microchip,29,561,237,Customer_422,Automotive,Japan,North America,590,16269,-841
+8555,2023-12-25,1416,Product_1450,Microchip,87,191,144,Customer_481,Consumer Electronics,Japan,North America,671,16617,-41760
+6593,2023-12-25,1105,Product_1443,Sensor,41,668,121,Customer_465,Consumer Electronics,Japan,North America,724,27388,-2296
+9820,2023-12-25,1062,Product_1451,Robotics,35,300,435,Customer_73,Consumer Electronics,Germany,North America,121,10500,6265
+4538,2023-12-25,1018,Product_1154,Sensor,41,191,58,Customer_367,Consumer Electronics,USA,Europe,99,7831,3772
+2423,2023-12-25,1283,Product_1395,Microchip,73,633,460,Customer_49,Automotive,USA,Europe,732,46209,-7227
+7589,2023-12-25,1455,Product_1231,Robotics,65,11,167,Customer_8,Automotive,South Korea,Asia-Pacific,273,715,-17030
+7572,2023-12-25,1421,Product_1308,Robotics,54,865,128,Customer_262,Industrial,China,Europe,581,46710,15336
+7004,2023-12-25,1008,Product_1307,Microchip,94,399,379,Customer_92,Industrial,South Korea,Europe,191,37506,19552
+9800,2023-12-25,1111,Product_1124,Sensor,47,104,159,Customer_226,Industrial,South Korea,Europe,699,4888,-27965
+4435,2023-12-25,1191,Product_1390,Microchip,48,867,220,Customer_184,Industrial,Germany,North America,264,41616,28944
+157,2023-12-25,1138,Product_1445,Robotics,88,881,151,Customer_332,Industrial,Germany,Asia-Pacific,537,77528,30272
+3891,2023-12-25,1171,Product_1306,Microchip,46,979,428,Customer_476,Automotive,China,North America,549,45034,19780
+8378,2023-12-25,1272,Product_1499,Microchip,22,57,486,Customer_337,Consumer Electronics,Germany,Europe,528,1254,-10362
+2264,2023-12-25,1391,Product_1240,Robotics,26,38,293,Customer_168,Consumer Electronics,South Korea,Asia-Pacific,41,988,-78
+1028,2023-12-25,1398,Product_1211,Microchip,31,90,334,Customer_281,Industrial,China,Asia-Pacific,315,2790,-6975
+9773,2023-12-25,1094,Product_1010,Sensor,24,469,4,Customer_242,Consumer Electronics,South Korea,North America,233,11256,5664
+9385,2023-12-25,1314,Product_1170,Robotics,19,268,445,Customer_282,Consumer Electronics,USA,Europe,654,5092,-7334
+6755,2023-12-25,1070,Product_1079,Sensor,39,519,198,Customer_478,Industrial,China,Asia-Pacific,719,20241,-7800
+9514,2023-12-25,1039,Product_1283,Microchip,76,986,344,Customer_467,Consumer Electronics,Germany,Europe,367,74936,47044
+2066,2023-12-25,1473,Product_1492,Robotics,14,734,417,Customer_396,Automotive,USA,Europe,326,10276,5712
+8276,2023-12-25,1390,Product_1292,Robotics,44,581,76,Customer_122,Consumer Electronics,Japan,Europe,727,25564,-6424
+9299,2023-12-26,1161,Product_1023,Microchip,74,97,130,Customer_481,Consumer Electronics,Germany,Asia-Pacific,497,7178,-29600
+4781,2023-12-26,1424,Product_1048,Microchip,49,775,292,Customer_293,Consumer Electronics,USA,Asia-Pacific,177,37975,29302
+9127,2023-12-26,1121,Product_1077,Robotics,49,606,286,Customer_168,Industrial,USA,Asia-Pacific,258,29694,17052
+9294,2023-12-26,1279,Product_1009,Robotics,69,857,360,Customer_52,Consumer Electronics,USA,Asia-Pacific,184,59133,46437
+5344,2023-12-26,1324,Product_1172,Sensor,49,967,398,Customer_256,Consumer Electronics,Japan,Asia-Pacific,427,47383,26460
+3374,2023-12-26,1094,Product_1033,Sensor,83,371,201,Customer_303,Industrial,Japan,Europe,779,30793,-33864
+1486,2023-12-26,1315,Product_1229,Microchip,88,782,95,Customer_149,Automotive,USA,Europe,172,68816,53680
+6058,2023-12-26,1318,Product_1123,Sensor,25,445,483,Customer_486,Consumer Electronics,Germany,Europe,37,11125,10200
+213,2023-12-26,1156,Product_1263,Sensor,80,867,447,Customer_101,Automotive,Japan,North America,192,69360,54000
+1513,2023-12-26,1238,Product_1228,Sensor,9,120,397,Customer_9,Consumer Electronics,Japan,North America,383,1080,-2367
+4186,2023-12-26,1223,Product_1245,Sensor,43,479,21,Customer_234,Automotive,Germany,North America,755,20597,-11868
+700,2023-12-26,1122,Product_1292,Robotics,52,459,103,Customer_107,Automotive,South Korea,Asia-Pacific,781,23868,-16744
+3223,2023-12-26,1282,Product_1235,Sensor,11,445,499,Customer_64,Consumer Electronics,China,North America,614,4895,-1859
+7838,2023-12-26,1330,Product_1324,Robotics,6,815,261,Customer_472,Automotive,USA,Asia-Pacific,539,4890,1656
+8689,2023-12-26,1138,Product_1400,Robotics,50,642,318,Customer_23,Industrial,Japan,Europe,29,32100,30650
+5329,2023-12-26,1415,Product_1474,Robotics,83,318,385,Customer_440,Automotive,China,North America,498,26394,-14940
+9405,2023-12-26,1148,Product_1359,Sensor,7,980,471,Customer_383,Industrial,USA,North America,469,6860,3577
+9940,2023-12-26,1342,Product_1045,Robotics,78,643,227,Customer_384,Automotive,China,Asia-Pacific,705,50154,-4836
+1636,2023-12-26,1110,Product_1325,Sensor,5,944,22,Customer_16,Industrial,South Korea,Asia-Pacific,172,4720,3860
+4260,2023-12-26,1290,Product_1012,Microchip,61,454,284,Customer_412,Industrial,Japan,Europe,376,27694,4758
+5449,2023-12-26,1136,Product_1024,Sensor,33,633,75,Customer_459,Consumer Electronics,Japan,Europe,175,20889,15114
+409,2023-12-26,1354,Product_1054,Sensor,44,242,345,Customer_106,Automotive,Germany,Asia-Pacific,552,10648,-13640
+818,2023-12-26,1146,Product_1395,Robotics,48,195,175,Customer_280,Automotive,China,North America,169,9360,1248
+2113,2023-12-26,1495,Product_1129,Microchip,95,569,238,Customer_271,Industrial,South Korea,Asia-Pacific,634,54055,-6175
+9864,2023-12-26,1086,Product_1352,Sensor,34,780,394,Customer_186,Automotive,Germany,Asia-Pacific,714,26520,2244
+46,2023-12-26,1144,Product_1319,Microchip,43,205,435,Customer_244,Automotive,Japan,North America,594,8815,-16727
+6870,2023-12-26,1003,Product_1256,Microchip,75,870,122,Customer_291,Consumer Electronics,South Korea,North America,776,65250,7050
+4645,2023-12-26,1413,Product_1190,Sensor,38,130,50,Customer_150,Industrial,Japan,Asia-Pacific,431,4940,-11438
+47,2023-12-26,1066,Product_1047,Microchip,7,151,413,Customer_303,Automotive,China,Europe,568,1057,-2919
+7919,2023-12-26,1046,Product_1090,Microchip,64,418,295,Customer_443,Automotive,Germany,Europe,517,26752,-6336
+3307,2023-12-26,1035,Product_1038,Microchip,18,97,45,Customer_139,Consumer Electronics,Japan,North America,244,1746,-2646
+5905,2023-12-27,1406,Product_1015,Sensor,18,829,62,Customer_60,Automotive,Japan,Asia-Pacific,680,14922,2682
+1440,2023-12-27,1072,Product_1290,Robotics,29,183,388,Customer_110,Automotive,China,Asia-Pacific,624,5307,-12789
+4856,2023-12-27,1267,Product_1195,Sensor,42,648,83,Customer_49,Automotive,Japan,Asia-Pacific,202,27216,18732
+8951,2023-12-27,1085,Product_1322,Sensor,96,932,445,Customer_37,Industrial,Japan,Europe,98,89472,80064
+6074,2023-12-27,1346,Product_1207,Sensor,89,352,359,Customer_51,Industrial,South Korea,Asia-Pacific,657,31328,-27145
+1247,2023-12-27,1217,Product_1217,Sensor,80,894,250,Customer_41,Automotive,USA,Europe,555,71520,27120
+9061,2023-12-27,1215,Product_1314,Robotics,64,728,101,Customer_154,Automotive,Japan,Europe,462,46592,17024
+8792,2023-12-27,1336,Product_1071,Robotics,49,203,169,Customer_376,Consumer Electronics,China,Asia-Pacific,578,9947,-18375
+8663,2023-12-27,1076,Product_1444,Robotics,83,288,315,Customer_154,Automotive,China,Asia-Pacific,341,23904,-4399
+1269,2023-12-27,1008,Product_1282,Sensor,28,595,318,Customer_15,Industrial,Japan,North America,47,16660,15344
+6406,2023-12-27,1244,Product_1393,Robotics,48,79,250,Customer_398,Industrial,South Korea,Asia-Pacific,271,3792,-9216
+1123,2023-12-27,1206,Product_1263,Robotics,48,39,453,Customer_157,Industrial,China,Europe,784,1872,-35760
+316,2023-12-27,1181,Product_1078,Robotics,19,449,267,Customer_16,Consumer Electronics,South Korea,Asia-Pacific,309,8531,2660
+4370,2023-12-27,1360,Product_1343,Microchip,68,23,408,Customer_60,Automotive,USA,North America,652,1564,-42772
+6779,2023-12-27,1444,Product_1432,Sensor,34,463,213,Customer_80,Automotive,China,Europe,54,15742,13906
+408,2023-12-27,1491,Product_1049,Robotics,95,36,33,Customer_145,Automotive,USA,Europe,534,3420,-47310
+419,2023-12-27,1006,Product_1136,Microchip,56,158,8,Customer_37,Consumer Electronics,Germany,North America,715,8848,-31192
+6609,2023-12-27,1448,Product_1482,Microchip,77,375,96,Customer_394,Industrial,China,North America,734,28875,-27643
+3047,2023-12-27,1340,Product_1442,Robotics,80,979,118,Customer_341,Industrial,USA,Asia-Pacific,84,78320,71600
+4167,2023-12-27,1301,Product_1066,Robotics,8,619,177,Customer_470,Consumer Electronics,Germany,Asia-Pacific,233,4952,3088
+4160,2023-12-27,1062,Product_1209,Robotics,5,998,356,Customer_142,Consumer Electronics,South Korea,Europe,76,4990,4610
+4618,2023-12-27,1332,Product_1386,Microchip,85,512,162,Customer_354,Automotive,South Korea,North America,590,43520,-6630
+504,2023-12-27,1186,Product_1359,Microchip,54,703,462,Customer_68,Automotive,Japan,Europe,314,37962,21006
+8032,2023-12-27,1341,Product_1138,Robotics,39,819,250,Customer_200,Industrial,Japan,North America,264,31941,21645
+3221,2023-12-27,1204,Product_1016,Microchip,11,645,70,Customer_436,Consumer Electronics,Japan,Europe,457,7095,2068
+7269,2023-12-27,1340,Product_1267,Sensor,41,669,147,Customer_9,Consumer Electronics,Japan,North America,411,27429,10578
+9842,2023-12-27,1125,Product_1142,Sensor,93,447,409,Customer_31,Automotive,South Korea,North America,402,41571,4185
+7171,2023-12-27,1036,Product_1284,Sensor,60,213,464,Customer_486,Industrial,Germany,Asia-Pacific,272,12780,-3540
+6765,2023-12-28,1214,Product_1453,Microchip,13,643,78,Customer_212,Industrial,USA,North America,723,8359,-1040
+1485,2023-12-28,1212,Product_1044,Sensor,85,977,232,Customer_461,Consumer Electronics,China,Europe,115,83045,73270
+494,2023-12-28,1469,Product_1413,Microchip,26,312,123,Customer_156,Consumer Electronics,Germany,Asia-Pacific,634,8112,-8372
+5259,2023-12-28,1023,Product_1140,Sensor,13,63,173,Customer_253,Consumer Electronics,USA,Europe,182,819,-1547
+3706,2023-12-28,1135,Product_1246,Sensor,34,447,73,Customer_152,Automotive,Germany,Europe,61,15198,13124
+5887,2023-12-28,1131,Product_1276,Sensor,34,185,266,Customer_23,Industrial,Germany,Europe,212,6290,-918
+4296,2023-12-28,1361,Product_1015,Microchip,38,302,215,Customer_117,Automotive,Japan,Asia-Pacific,307,11476,-190
+2509,2023-12-28,1355,Product_1063,Microchip,43,400,354,Customer_497,Industrial,USA,North America,771,17200,-15953
+2921,2023-12-28,1415,Product_1089,Microchip,28,175,439,Customer_91,Consumer Electronics,China,Europe,368,4900,-5404
+2280,2023-12-28,1014,Product_1481,Sensor,68,968,352,Customer_219,Automotive,USA,North America,549,65824,28492
+5209,2023-12-28,1405,Product_1076,Sensor,16,604,217,Customer_340,Consumer Electronics,USA,Europe,663,9664,-944
+2231,2023-12-28,1358,Product_1125,Sensor,14,464,343,Customer_475,Industrial,China,Europe,47,6496,5838
+8198,2023-12-28,1014,Product_1133,Microchip,90,47,465,Customer_89,Industrial,South Korea,North America,383,4230,-30240
+7026,2023-12-28,1380,Product_1070,Sensor,11,523,91,Customer_128,Automotive,USA,Asia-Pacific,259,5753,2904
+8279,2023-12-28,1044,Product_1272,Sensor,46,155,133,Customer_471,Consumer Electronics,Japan,Asia-Pacific,331,7130,-8096
+8274,2023-12-28,1365,Product_1084,Robotics,34,817,323,Customer_411,Automotive,USA,Europe,45,27778,26248
+848,2023-12-28,1268,Product_1245,Robotics,88,224,305,Customer_429,Automotive,Germany,North America,536,19712,-27456
+8907,2023-12-28,1208,Product_1130,Sensor,59,95,65,Customer_74,Consumer Electronics,Japan,Asia-Pacific,423,5605,-19352
+2944,2023-12-28,1167,Product_1401,Sensor,8,759,81,Customer_265,Consumer Electronics,South Korea,Europe,28,6072,5848
+8466,2023-12-28,1461,Product_1296,Robotics,32,571,230,Customer_130,Automotive,China,North America,530,18272,1312
+7337,2023-12-28,1157,Product_1394,Robotics,79,941,151,Customer_6,Consumer Electronics,China,Asia-Pacific,423,74339,40922
+9493,2023-12-28,1232,Product_1416,Robotics,67,935,15,Customer_481,Automotive,Germany,North America,677,62645,17286
+3149,2023-12-28,1128,Product_1297,Microchip,23,619,61,Customer_489,Consumer Electronics,Japan,Asia-Pacific,115,14237,11592
+513,2023-12-28,1123,Product_1367,Microchip,62,400,444,Customer_325,Consumer Electronics,Japan,North America,706,24800,-18972
+9354,2023-12-28,1140,Product_1307,Sensor,20,940,286,Customer_174,Industrial,South Korea,Europe,120,18800,16400
+1358,2023-12-28,1405,Product_1206,Sensor,56,17,468,Customer_298,Automotive,Japan,Europe,224,952,-11592
+8376,2023-12-28,1475,Product_1132,Sensor,87,998,188,Customer_380,Automotive,South Korea,North America,133,86826,75255
+1265,2023-12-28,1158,Product_1448,Microchip,23,932,352,Customer_85,Industrial,China,Europe,713,21436,5037
+2146,2023-12-28,1272,Product_1451,Microchip,77,844,59,Customer_331,Automotive,China,Asia-Pacific,139,64988,54285
+261,2023-12-29,1468,Product_1016,Sensor,80,867,106,Customer_185,Industrial,South Korea,Asia-Pacific,187,69360,54400
+8927,2023-12-29,1006,Product_1149,Sensor,16,332,299,Customer_309,Consumer Electronics,Japan,North America,227,5312,1680
+5534,2023-12-29,1059,Product_1238,Robotics,87,904,273,Customer_162,Industrial,Germany,Europe,617,78648,24969
+5505,2023-12-29,1094,Product_1003,Sensor,2,811,431,Customer_285,Industrial,USA,Europe,329,1622,964
+4034,2023-12-29,1079,Product_1056,Sensor,45,117,166,Customer_418,Consumer Electronics,South Korea,Asia-Pacific,516,5265,-17955
+3787,2023-12-29,1460,Product_1477,Sensor,71,92,89,Customer_198,Consumer Electronics,South Korea,Europe,420,6532,-23288
+3635,2023-12-29,1418,Product_1061,Microchip,68,277,388,Customer_124,Consumer Electronics,Germany,North America,178,18836,6732
+9232,2023-12-29,1445,Product_1086,Sensor,36,897,90,Customer_200,Automotive,China,Europe,110,32292,28332
+1399,2023-12-29,1397,Product_1393,Microchip,82,576,450,Customer_380,Consumer Electronics,USA,Europe,341,47232,19270
+6016,2023-12-29,1324,Product_1126,Microchip,11,237,457,Customer_407,Consumer Electronics,Japan,North America,273,2607,-396
+8623,2023-12-29,1492,Product_1282,Robotics,41,694,302,Customer_56,Automotive,USA,Europe,338,28454,14596
+7459,2023-12-29,1205,Product_1402,Sensor,72,314,240,Customer_346,Industrial,Japan,Europe,145,22608,12168
+7914,2023-12-29,1469,Product_1010,Sensor,52,281,175,Customer_468,Consumer Electronics,China,Asia-Pacific,552,14612,-14092
+5994,2023-12-29,1059,Product_1212,Robotics,43,165,214,Customer_335,Industrial,China,North America,381,7095,-9288
+1353,2023-12-29,1222,Product_1258,Robotics,56,800,447,Customer_457,Consumer Electronics,South Korea,Asia-Pacific,218,44800,32592
+5292,2023-12-29,1480,Product_1333,Microchip,49,434,70,Customer_89,Automotive,China,Asia-Pacific,427,21266,343
+3089,2023-12-29,1328,Product_1358,Sensor,82,46,366,Customer_125,Consumer Electronics,USA,Europe,684,3772,-52316
+368,2023-12-29,1142,Product_1430,Robotics,7,404,424,Customer_63,Consumer Electronics,South Korea,Europe,462,2828,-406
+7662,2023-12-29,1289,Product_1224,Robotics,85,742,2,Customer_281,Automotive,USA,Europe,787,63070,-3825
+4164,2023-12-29,1306,Product_1123,Microchip,39,571,311,Customer_223,Consumer Electronics,Germany,North America,408,22269,6357
+7623,2023-12-29,1450,Product_1171,Sensor,35,538,240,Customer_137,Industrial,Japan,Asia-Pacific,313,18830,7875
+7348,2023-12-29,1497,Product_1237,Microchip,63,930,369,Customer_34,Consumer Electronics,China,North America,335,58590,37485
+2385,2023-12-29,1321,Product_1471,Robotics,87,253,500,Customer_157,Consumer Electronics,China,North America,273,22011,-1740
+4494,2023-12-29,1460,Product_1032,Microchip,49,404,332,Customer_286,Automotive,South Korea,North America,157,19796,12103
+8445,2023-12-29,1425,Product_1438,Sensor,51,884,313,Customer_364,Consumer Electronics,South Korea,North America,110,45084,39474
+7350,2023-12-29,1227,Product_1421,Robotics,38,334,214,Customer_467,Industrial,South Korea,North America,303,12692,1178
+5050,2023-12-29,1158,Product_1219,Microchip,78,213,242,Customer_356,Industrial,China,North America,605,16614,-30576
+6638,2023-12-29,1482,Product_1256,Sensor,27,688,303,Customer_119,Industrial,USA,North America,95,18576,16011
+6648,2023-12-29,1395,Product_1229,Robotics,93,450,39,Customer_329,Consumer Electronics,USA,Asia-Pacific,468,41850,-1674
+3964,2023-12-29,1327,Product_1162,Microchip,70,490,489,Customer_269,Consumer Electronics,USA,Asia-Pacific,282,34300,14560
+2225,2023-12-29,1234,Product_1305,Sensor,84,998,91,Customer_363,Automotive,USA,North America,735,83832,22092
+615,2023-12-30,1207,Product_1277,Robotics,35,768,111,Customer_487,Industrial,Germany,Europe,15,26880,26355
+4826,2023-12-30,1199,Product_1186,Microchip,45,773,488,Customer_280,Industrial,China,Europe,260,34785,23085
+608,2023-12-30,1125,Product_1469,Sensor,59,383,407,Customer_397,Industrial,USA,Europe,540,22597,-9263
+9644,2023-12-30,1127,Product_1407,Microchip,20,672,109,Customer_108,Consumer Electronics,China,Asia-Pacific,402,13440,5400
+3004,2023-12-30,1336,Product_1151,Robotics,62,280,149,Customer_46,Consumer Electronics,Japan,Europe,632,17360,-21824
+3582,2023-12-30,1422,Product_1467,Microchip,52,539,444,Customer_14,Industrial,Germany,Europe,385,28028,8008
+1299,2023-12-30,1169,Product_1491,Microchip,9,528,115,Customer_363,Consumer Electronics,China,North America,46,4752,4338
+7637,2023-12-30,1424,Product_1164,Robotics,1,394,134,Customer_491,Consumer Electronics,Japan,Asia-Pacific,548,394,-154
+9540,2023-12-30,1226,Product_1170,Robotics,66,747,202,Customer_192,Industrial,USA,Europe,697,49302,3300
+3468,2023-12-30,1003,Product_1092,Sensor,70,398,486,Customer_19,Consumer Electronics,USA,Europe,184,27860,14980
+9558,2023-12-30,1380,Product_1190,Sensor,32,297,30,Customer_350,Consumer Electronics,South Korea,Asia-Pacific,547,9504,-8000
+1179,2023-12-30,1097,Product_1246,Robotics,60,361,464,Customer_468,Automotive,Germany,North America,144,21660,13020
+1139,2023-12-30,1387,Product_1199,Sensor,35,636,364,Customer_126,Industrial,Japan,Europe,240,22260,13860
+3359,2023-12-30,1197,Product_1406,Sensor,96,44,213,Customer_405,Automotive,China,North America,673,4224,-60384
+1134,2023-12-30,1014,Product_1371,Sensor,94,71,229,Customer_62,Automotive,China,North America,797,6674,-68244
+3337,2023-12-30,1025,Product_1040,Robotics,51,797,102,Customer_229,Consumer Electronics,South Korea,North America,218,40647,29529
+456,2023-12-30,1225,Product_1013,Microchip,17,268,127,Customer_361,Automotive,China,Asia-Pacific,240,4556,476
+2923,2023-12-30,1172,Product_1357,Sensor,85,560,355,Customer_367,Industrial,China,Asia-Pacific,78,47600,40970
+2680,2023-12-30,1160,Product_1234,Robotics,91,807,322,Customer_131,Automotive,China,North America,183,73437,56784
+2257,2023-12-30,1180,Product_1139,Sensor,92,691,94,Customer_377,Automotive,South Korea,North America,633,63572,5336
+4833,2023-12-30,1340,Product_1298,Sensor,89,84,344,Customer_430,Industrial,Japan,Europe,374,7476,-25810
+1765,2023-12-30,1348,Product_1500,Microchip,67,406,227,Customer_62,Industrial,Germany,Asia-Pacific,299,27202,7169
+4784,2023-12-30,1022,Product_1305,Sensor,4,322,5,Customer_270,Consumer Electronics,Germany,Asia-Pacific,261,1288,244
+1918,2023-12-30,1356,Product_1061,Robotics,98,156,165,Customer_303,Industrial,China,Europe,701,15288,-53410
+6560,2023-12-30,1002,Product_1031,Sensor,37,290,159,Customer_302,Consumer Electronics,South Korea,North America,59,10730,8547
+9816,2023-12-30,1464,Product_1021,Robotics,53,230,238,Customer_327,Consumer Electronics,Japan,North America,690,12190,-24380
+4902,2023-12-30,1008,Product_1489,Sensor,87,884,220,Customer_483,Automotive,USA,North America,666,76908,18966
+6701,2023-12-30,1400,Product_1350,Sensor,20,553,418,Customer_27,Consumer Electronics,Japan,Asia-Pacific,90,11060,9260
+289,2023-12-30,1390,Product_1492,Sensor,51,632,140,Customer_8,Automotive,Germany,Asia-Pacific,405,32232,11577
+8714,2023-12-30,1019,Product_1499,Sensor,64,760,35,Customer_106,Consumer Electronics,Japan,North America,32,48640,46592
+2238,2023-12-30,1191,Product_1327,Sensor,81,803,486,Customer_36,Industrial,Japan,North America,745,65043,4698
+773,2023-12-30,1115,Product_1045,Robotics,89,291,352,Customer_175,Industrial,USA,Asia-Pacific,503,25899,-18868
+8819,2023-12-30,1349,Product_1130,Robotics,67,781,100,Customer_296,Industrial,Japan,North America,369,52327,27604
+2104,2023-12-30,1049,Product_1195,Microchip,16,516,95,Customer_100,Consumer Electronics,South Korea,Europe,33,8256,7728
+5186,2023-12-30,1125,Product_1257,Robotics,3,54,291,Customer_375,Industrial,South Korea,Europe,648,162,-1782
+7813,2023-12-30,1252,Product_1222,Robotics,88,460,117,Customer_269,Automotive,South Korea,Asia-Pacific,539,40480,-6952
+2756,2023-12-30,1457,Product_1045,Robotics,4,139,364,Customer_290,Consumer Electronics,South Korea,Asia-Pacific,515,556,-1504
+3893,2023-12-30,1366,Product_1169,Microchip,43,576,316,Customer_403,Automotive,Germany,North America,644,24768,-2924
+9684,2023-12-30,1339,Product_1177,Sensor,20,613,402,Customer_476,Industrial,Germany,Asia-Pacific,145,12260,9360
+9697,2023-12-30,1170,Product_1094,Robotics,46,810,209,Customer_398,Consumer Electronics,USA,North America,758,37260,2392
+2677,2023-12-30,1395,Product_1305,Microchip,77,499,192,Customer_41,Consumer Electronics,China,Asia-Pacific,737,38423,-18326
+7012,2023-12-30,1201,Product_1455,Sensor,21,748,13,Customer_355,Automotive,Japan,North America,412,15708,7056
+5247,2023-12-30,1425,Product_1110,Sensor,42,403,93,Customer_186,Consumer Electronics,South Korea,North America,598,16926,-8190
+3517,2023-12-31,1407,Product_1370,Microchip,75,745,179,Customer_183,Consumer Electronics,China,North America,312,55875,32475
+434,2023-12-31,1073,Product_1443,Microchip,3,899,457,Customer_71,Industrial,USA,Europe,12,2697,2661
+2646,2023-12-31,1269,Product_1277,Microchip,41,298,242,Customer_259,Industrial,Germany,Asia-Pacific,724,12218,-17466
+7998,2023-12-31,1011,Product_1450,Microchip,56,657,178,Customer_486,Automotive,South Korea,North America,378,36792,15624
+8054,2023-12-31,1394,Product_1158,Microchip,28,555,226,Customer_187,Consumer Electronics,South Korea,Europe,240,15540,8820
+8111,2023-12-31,1318,Product_1372,Robotics,16,379,147,Customer_186,Industrial,Japan,Asia-Pacific,283,6064,1536
+4654,2023-12-31,1308,Product_1261,Robotics,7,401,173,Customer_491,Automotive,South Korea,Asia-Pacific,80,2807,2247
+9281,2023-12-31,1264,Product_1162,Robotics,61,913,193,Customer_424,Consumer Electronics,Germany,Asia-Pacific,355,55693,34038
+7568,2023-12-31,1426,Product_1017,Microchip,24,899,148,Customer_124,Automotive,China,Europe,638,21576,6264
+3030,2023-12-31,1372,Product_1024,Robotics,35,98,107,Customer_350,Automotive,Japan,Europe,289,3430,-6685
+4603,2023-12-31,1221,Product_1088,Robotics,26,117,158,Customer_361,Automotive,USA,North America,733,3042,-16016
+6606,2023-12-31,1389,Product_1470,Robotics,47,530,121,Customer_25,Consumer Electronics,China,Asia-Pacific,269,24910,12267
+4059,2023-12-31,1136,Product_1316,Robotics,92,394,146,Customer_462,Industrial,South Korea,North America,78,36248,29072
+1987,2023-12-31,1451,Product_1039,Microchip,51,426,330,Customer_319,Automotive,China,North America,380,21726,2346
+3990,2023-12-31,1262,Product_1181,Sensor,83,118,462,Customer_367,Industrial,Japan,Europe,151,9794,-2739
+5692,2023-12-31,1496,Product_1274,Robotics,11,791,209,Customer_452,Automotive,USA,Asia-Pacific,454,8701,3707
+8427,2023-12-31,1275,Product_1370,Robotics,23,167,2,Customer_135,Consumer Electronics,Germany,North America,478,3841,-7153
+7954,2023-12-31,1014,Product_1162,Sensor,49,523,139,Customer_361,Consumer Electronics,South Korea,Europe,627,25627,-5096
+8380,2023-12-31,1222,Product_1048,Microchip,86,123,475,Customer_321,Consumer Electronics,USA,Asia-Pacific,249,10578,-10836
+1633,2023-12-31,1147,Product_1090,Robotics,34,382,456,Customer_455,Consumer Electronics,Germany,Asia-Pacific,678,12988,-10064
+1493,2023-12-31,1070,Product_1419,Microchip,47,611,288,Customer_205,Consumer Electronics,South Korea,North America,440,28717,8037
+4253,2023-12-31,1471,Product_1050,Sensor,83,608,180,Customer_2,Industrial,Japan,Asia-Pacific,720,50464,-9296
+4996,2023-12-31,1197,Product_1179,Robotics,51,442,423,Customer_295,Automotive,China,North America,721,22542,-14229
+6815,2023-12-31,1465,Product_1034,Robotics,61,959,149,Customer_399,Automotive,China,Asia-Pacific,681,58499,16958
+6079,2023-12-31,1078,Product_1426,Microchip,37,171,202,Customer_125,Industrial,Japan,North America,129,6327,1554
+3134,2023-12-31,1069,Product_1086,Microchip,16,205,3,Customer_432,Automotive,Japan,North America,101,3280,1664
+7191,2023-12-31,1454,Product_1104,Sensor,68,679,323,Customer_333,Automotive,USA,Asia-Pacific,131,46172,37264

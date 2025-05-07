@@ -97,4 +97,8 @@ This project uses Power BI to extract insights from Techtronix's dataset and gen
 
 ## 📧 Contact
 
-For questions, collaboration, or feedback, please feel free to reach out via GitHub Issues or [LinkedIn](https://www.linkedin.com/in/osaroh-ekhoragbon/).
+For questions, collaboration, or feedback, please feel free to reach out via:
+
+📧 Email: osarohekhoragbon@gmail.com  
+💼 LinkedIn: [linkedin.com/in/osarohekhoragbon](https://www.linkedin.com/in/osarohekhoragbon)  
+🌐 GitHub: [github.com/OsarohEkhoragbon](https://github.com/OsarohEkhoragbon)

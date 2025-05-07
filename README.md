@@ -22,7 +22,7 @@ This project uses Power BI to extract insights from Techtronix's dataset and gen
 
 1. **Sales Performance Analysis**  
    - Discover trends across product categories, regions, sectors, and timeframes  
-   - Highlight top- and bottom-performing products
+   - Highlight peak- and low-performing months
 
 2. **Customer Insights**  
    - Segment customers by behavior, preferences, and geography  
@@ -41,26 +41,49 @@ This project uses Power BI to extract insights from Techtronix's dataset and gen
 
 ---
 
+## 📈 Key Metrics (2023)
+
+- **Total Revenue**: $252M  
+- **Total Profit**: $53M  
+- **Production Cost**: $4M  
+- **Total Quantity Sold**: 501K  
+- **Profit Margin**: 21%
+
+---
+
+## 🔍 Insights & Findings
+
+- **Best Performing Product**: Microchip (consistently leads across all sectors and regions)
+- **Top Customer Sector**: Industrial  
+- **Top Regions by Revenue**: Europe and Asia-Pacific  
+- **Customer Base**: 100 customers across USA, Germany, Japan, South Korea, and China  
+- **Peak Month**: April, driven by high demand and efficient cost management  
+- **Low Performing Months**: February and May due to weak demand and pricing adjustments
+
+---
+
+## 📌 Recommendations
+
+- Improve **demand forecasting** to handle seasonal fluctuations
+- Focus on **cost optimization** during low demand months
+- **Scale production** during peak months and reduce overproduction in others
+- Target **Asia-Pacific and Europe** for expansion—high profitability and demand
+- Boost customer engagement through targeted marketing and high-margin product bundling
+
+---
+
+## 🛠 Tools & Skills Used
+
+- **Power BI Desktop**
+- **DAX & Power Query**
+- **Interactive Visualizations & Drilldowns**
+- **Business Intelligence & Reporting**
+- **Data Modeling & Performance Monitoring**
+
 ## 📂 Deliverables
 
 - ✅ **Interactive Power BI Dashboard**: Summarizes key metrics and visual insights  
 - ✅ **PowerPoint Presentation**: Communicates strategic findings and business recommendations
-
----
-
-## 📽️ Demo
-
-Watch the walkthrough of the interactive dashboard:  
-**▶️ Techtronix Business Insights – Power BI Dashboard Demo**  
-`TechTronix Interative Dashboard Presentation project.mp4`
-
----
-
-## 🚀 Tools & Technologies
-
-- **Microsoft Power BI**
-- **Microsoft Excel** (for data cleaning and preprocessing)
-- **PowerPoint** (for presentation delivery)
 
 ---
 

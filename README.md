@@ -100,5 +100,5 @@ This project uses Power BI to extract insights from Techtronix's dataset and gen
 For questions, collaboration, or feedback, please feel free to reach out via:
 
 📧 Email: osarohekhoragbon@gmail.com  
-💼 LinkedIn: (https://www.linkedin.com/posts/osaroh-ekhoragbon_90daysofconsistency-osarohdataanalyticsjourneywith10alytics-activity-7318950324944142338-Cmg-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkcTOMBH04A-GBT9XWCy_GRBdwnuvWM7qY)  
+💼 [Linkedin Project Link](https://www.linkedin.com/posts/osaroh-ekhoragbon_90daysofconsistency-osarohdataanalyticsjourneywith10alytics-activity-7318950324944142338-Cmg-?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAkcTOMBH04A-GBT9XWCy_GRBdwnuvWM7qY)  
 🌐 GitHub: [github.com/OsarohEkhoragbon](https://github.com/OsarohEkhoragbon)
